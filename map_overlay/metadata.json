@@ -1,0 +1,68 @@
+{
+  "label": "Геологическая карта",
+  "source": "Igarka_Maps.tif",
+  "crs": "EPSG:3857",
+  "width": 20899,
+  "height": 38853,
+  "pixel_size": [
+    5.1528316526688664,
+    5.15283165266892
+  ],
+  "bounds_mercator": [
+    9587664.00545989,
+    10206244.739712054,
+    9695353.034169016,
+    10406447.7079132
+  ],
+  "bounds": [
+    86.12745115107211,
+    67.17551612241655,
+    87.09483815528606,
+    67.86314171947805
+  ],
+  "tile_size": 1024,
+  "levels": [
+    {
+      "level": 0,
+      "width": 20899,
+      "height": 38853
+    },
+    {
+      "level": 1,
+      "width": 10450,
+      "height": 19427
+    },
+    {
+      "level": 2,
+      "width": 5225,
+      "height": 9714
+    },
+    {
+      "level": 3,
+      "width": 2613,
+      "height": 4857
+    },
+    {
+      "level": 4,
+      "width": 1307,
+      "height": 2429
+    },
+    {
+      "level": 5,
+      "width": 654,
+      "height": 1215
+    },
+    {
+      "level": 6,
+      "width": 327,
+      "height": 608
+    }
+  ],
+  "max_level": 6,
+  "template": "map_overlay/{level}/{x}_{y}.jpg",
+  "source_stamp": {
+    "bytes": 494717910,
+    "mtime_ns": 1789327749566242286,
+    "builder_version": 1
+  }
+}

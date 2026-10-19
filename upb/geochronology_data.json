@@ -1,0 +1,5599 @@
+{
+  "datasets": [
+    {
+      "id": "SM25-03",
+      "label": "SM25-03",
+      "subtitle": "базитовый силл",
+      "object": "Базитовый силл · точка SM25-03",
+      "source": "Малышев, Пасенко",
+      "source_kind": "project",
+      "kde_enabled": false,
+      "analyses": [
+        {
+          "sid": "SM25-03_9",
+          "age": 760.8,
+          "err_1s": 16.58,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_54",
+          "age": 262.6,
+          "err_1s": 5.96,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_99",
+          "age": 436.4,
+          "err_1s": 9.52,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_81",
+          "age": 445.9,
+          "err_1s": 9.75,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_79",
+          "age": 266.1,
+          "err_1s": 5.91,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_7",
+          "age": 300.7,
+          "err_1s": 6.89,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_107",
+          "age": 507.0,
+          "err_1s": 10.96,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_88",
+          "age": 263.4,
+          "err_1s": 5.85,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_102",
+          "age": 463.7,
+          "err_1s": 10.11,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_19",
+          "age": 425.6,
+          "err_1s": 9.54,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_51",
+          "age": 635.1,
+          "err_1s": 13.91,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_96",
+          "age": 481.7,
+          "err_1s": 10.47,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_18",
+          "age": 443.5,
+          "err_1s": 9.93,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_68",
+          "age": 414.5,
+          "err_1s": 9.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_98",
+          "age": 275.5,
+          "err_1s": 6.1,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_84",
+          "age": 623.5,
+          "err_1s": 13.57,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_95",
+          "age": 462.2,
+          "err_1s": 10.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_49",
+          "age": 304.0,
+          "err_1s": 6.78,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_25",
+          "age": 827.4,
+          "err_1s": 17.84,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_38",
+          "age": 704.7,
+          "err_1s": 15.29,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_17",
+          "age": 576.1,
+          "err_1s": 12.71,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_41",
+          "age": 452.1,
+          "err_1s": 10.1,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_77",
+          "age": 463.0,
+          "err_1s": 10.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_21",
+          "age": 380.6,
+          "err_1s": 8.54,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_45",
+          "age": 477.1,
+          "err_1s": 10.52,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_85",
+          "age": 515.7,
+          "err_1s": 11.22,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_5",
+          "age": 456.1,
+          "err_1s": 10.21,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_28",
+          "age": 765.8,
+          "err_1s": 16.79,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_110",
+          "age": 500.7,
+          "err_1s": 10.85,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_23",
+          "age": 134.0,
+          "err_1s": 3.08,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_11",
+          "age": 456.5,
+          "err_1s": 10.22,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_91",
+          "age": 328.0,
+          "err_1s": 7.21,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_42",
+          "age": 364.8,
+          "err_1s": 8.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_78",
+          "age": 799.0,
+          "err_1s": 17.07,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_35",
+          "age": 356.2,
+          "err_1s": 7.99,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_44",
+          "age": 175.0,
+          "err_1s": 3.95,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_105",
+          "age": 460.1,
+          "err_1s": 10.02,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_10",
+          "age": 834.4,
+          "err_1s": 18.12,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_108",
+          "age": 636.0,
+          "err_1s": 13.76,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_70",
+          "age": 484.0,
+          "err_1s": 10.6,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_14",
+          "age": 473.9,
+          "err_1s": 10.54,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_33",
+          "age": 472.2,
+          "err_1s": 10.48,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_66",
+          "age": 470.6,
+          "err_1s": 10.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_24",
+          "age": 305.4,
+          "err_1s": 6.97,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_22",
+          "age": 297.6,
+          "err_1s": 6.74,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_40",
+          "age": 507.0,
+          "err_1s": 11.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_52",
+          "age": 466.6,
+          "err_1s": 10.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_92",
+          "age": 580.6,
+          "err_1s": 12.57,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_64",
+          "age": 289.1,
+          "err_1s": 6.46,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_32",
+          "age": 468.6,
+          "err_1s": 10.46,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_71",
+          "age": 610.3,
+          "err_1s": 13.25,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_59",
+          "age": 189.9,
+          "err_1s": 4.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_89",
+          "age": 293.4,
+          "err_1s": 6.5,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_29",
+          "age": 504.9,
+          "err_1s": 11.17,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_100",
+          "age": 803.5,
+          "err_1s": 17.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_13",
+          "age": 928.0,
+          "err_1s": 19.97,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_6",
+          "age": 482.6,
+          "err_1s": 10.79,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_74",
+          "age": 614.3,
+          "err_1s": 13.28,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_104",
+          "age": 809.1,
+          "err_1s": 17.1,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_55",
+          "age": 486.1,
+          "err_1s": 10.7,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_86",
+          "age": 510.6,
+          "err_1s": 11.1,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_58",
+          "age": 509.2,
+          "err_1s": 11.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_15",
+          "age": 301.2,
+          "err_1s": 6.87,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_39",
+          "age": 219.3,
+          "err_1s": 5.01,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_67",
+          "age": 274.9,
+          "err_1s": 6.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_56",
+          "age": 799.9,
+          "err_1s": 17.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_62",
+          "age": 412.0,
+          "err_1s": 9.17,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_34",
+          "age": 452.5,
+          "err_1s": 10.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_72",
+          "age": 480.4,
+          "err_1s": 10.57,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_90",
+          "age": 288.5,
+          "err_1s": 6.37,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_47",
+          "age": 593.0,
+          "err_1s": 13.03,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_60",
+          "age": 279.6,
+          "err_1s": 6.25,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_94",
+          "age": 493.8,
+          "err_1s": 10.74,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_93",
+          "age": 457.7,
+          "err_1s": 10.01,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_76",
+          "age": 294.9,
+          "err_1s": 6.58,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_53",
+          "age": 298.4,
+          "err_1s": 6.68,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_12",
+          "age": 196.1,
+          "err_1s": 4.61,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_27",
+          "age": 273.1,
+          "err_1s": 6.24,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_103",
+          "age": 2745.7,
+          "err_1s": 37.48,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_30",
+          "age": 1943.1,
+          "err_1s": 37.31,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_83",
+          "age": 2532.1,
+          "err_1s": 36.24,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_57",
+          "age": 2569.4,
+          "err_1s": 35.76,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_2",
+          "age": 1925.9,
+          "err_1s": 37.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_37",
+          "age": 1331.9,
+          "err_1s": 41.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_80",
+          "age": 3081.2,
+          "err_1s": 34.32,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_63",
+          "age": 2827.7,
+          "err_1s": 34.98,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_65",
+          "age": 2796.7,
+          "err_1s": 34.68,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_101",
+          "age": 1860.7,
+          "err_1s": 39.83,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_1",
+          "age": 2054.0,
+          "err_1s": 37.04,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_4",
+          "age": 1773.2,
+          "err_1s": 38.39,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_97",
+          "age": 1837.0,
+          "err_1s": 40.72,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_61",
+          "age": 2052.3,
+          "err_1s": 37.36,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_36",
+          "age": 2779.2,
+          "err_1s": 34.18,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_48",
+          "age": 1835.5,
+          "err_1s": 38.4,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_69",
+          "age": 1736.9,
+          "err_1s": 38.95,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_31",
+          "age": 2384.0,
+          "err_1s": 35.62,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_46",
+          "age": 1836.5,
+          "err_1s": 37.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_43",
+          "age": 2807.3,
+          "err_1s": 34.4,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_3",
+          "age": 1937.9,
+          "err_1s": 40.04,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_8",
+          "age": 2086.5,
+          "err_1s": 36.81,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_87",
+          "age": 2964.2,
+          "err_1s": 34.88,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_20",
+          "age": 1990.1,
+          "err_1s": 36.91,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_73",
+          "age": 1847.3,
+          "err_1s": 38.88,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_26",
+          "age": 2061.0,
+          "err_1s": 36.64,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_75",
+          "age": 2356.5,
+          "err_1s": 37.07,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-03_50",
+          "age": 2378.4,
+          "err_1s": 35.74,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_109",
+          "age": 2028.3,
+          "err_1s": 39.35,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_82",
+          "age": 2647.2,
+          "err_1s": 35.98,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_16",
+          "age": 2346.4,
+          "err_1s": 35.75,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-03_106",
+          "age": 1934.9,
+          "err_1s": 39.64,
+          "accepted": false
+        }
+      ]
+    },
+    {
+      "id": "GUBINSKAYA-COMPARISON",
+      "label": "Губинская свита",
+      "subtitle": "сопоставление двух выборок",
+      "object": "Губинская свита · SM25-05 и обнажение 1812",
+      "source": "Малышев, Пасенко",
+      "source_kind": "project",
+      "kde_enabled": true,
+      "analyses": [
+        {
+          "sid": "SM25-05_76",
+          "age": 799.7,
+          "err_1s": 17.38,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-05_48",
+          "age": 802.6,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_5",
+          "age": 819.7,
+          "err_1s": 17.65,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_46",
+          "age": 813.8,
+          "err_1s": 17.62,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_107",
+          "age": 911.6,
+          "err_1s": 19.7,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_13",
+          "age": 814.3,
+          "err_1s": 17.75,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_33",
+          "age": 761.2,
+          "err_1s": 16.48,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_42",
+          "age": 844.4,
+          "err_1s": 18.17,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_24",
+          "age": 755.2,
+          "err_1s": 16.34,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_36",
+          "age": 776.3,
+          "err_1s": 17.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_37",
+          "age": 784.4,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_8",
+          "age": 888.2,
+          "err_1s": 19.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_75",
+          "age": 791.5,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_59",
+          "age": 836.9,
+          "err_1s": 18.07,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_62",
+          "age": 874.1,
+          "err_1s": 18.86,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_92",
+          "age": 872.6,
+          "err_1s": 19.44,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_98",
+          "age": 873.0,
+          "err_1s": 18.98,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_78",
+          "age": 803.2,
+          "err_1s": 17.4,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_10",
+          "age": 805.8,
+          "err_1s": 17.39,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_103",
+          "age": 792.9,
+          "err_1s": 17.5,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_57",
+          "age": 867.2,
+          "err_1s": 18.67,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_45",
+          "age": 787.6,
+          "err_1s": 17.08,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_31",
+          "age": 775.4,
+          "err_1s": 16.77,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_39",
+          "age": 780.3,
+          "err_1s": 16.87,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_80",
+          "age": 866.7,
+          "err_1s": 18.74,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_17",
+          "age": 884.7,
+          "err_1s": 19.01,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_4",
+          "age": 789.0,
+          "err_1s": 17.12,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_91",
+          "age": 909.5,
+          "err_1s": 19.68,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_55",
+          "age": 788.5,
+          "err_1s": 17.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_32",
+          "age": 791.0,
+          "err_1s": 17.08,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_88",
+          "age": 797.0,
+          "err_1s": 17.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_93",
+          "age": 894.5,
+          "err_1s": 19.36,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_67",
+          "age": 881.9,
+          "err_1s": 19.0,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_87",
+          "age": 853.4,
+          "err_1s": 18.71,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_34",
+          "age": 785.8,
+          "err_1s": 16.98,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_84",
+          "age": 797.3,
+          "err_1s": 17.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_49",
+          "age": 788.5,
+          "err_1s": 17.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_97",
+          "age": 894.1,
+          "err_1s": 19.42,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_9",
+          "age": 877.0,
+          "err_1s": 18.98,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_44",
+          "age": 783.6,
+          "err_1s": 16.96,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_104",
+          "age": 814.4,
+          "err_1s": 17.73,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_95",
+          "age": 939.3,
+          "err_1s": 20.38,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_101",
+          "age": 815.2,
+          "err_1s": 17.76,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_53",
+          "age": 943.7,
+          "err_1s": 20.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_110",
+          "age": 810.7,
+          "err_1s": 17.66,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_6",
+          "age": 784.5,
+          "err_1s": 17.08,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_21",
+          "age": 868.7,
+          "err_1s": 18.65,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_16",
+          "age": 803.4,
+          "err_1s": 17.37,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_63",
+          "age": 784.3,
+          "err_1s": 17.13,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_77",
+          "age": 813.1,
+          "err_1s": 17.6,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_22",
+          "age": 893.3,
+          "err_1s": 19.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_70",
+          "age": 891.7,
+          "err_1s": 19.17,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_86",
+          "age": 795.9,
+          "err_1s": 17.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_73",
+          "age": 913.1,
+          "err_1s": 19.59,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_61",
+          "age": 793.9,
+          "err_1s": 17.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_82",
+          "age": 798.5,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_89",
+          "age": 925.6,
+          "err_1s": 20.03,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_71",
+          "age": 863.8,
+          "err_1s": 18.66,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_74",
+          "age": 800.0,
+          "err_1s": 17.38,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_40",
+          "age": 893.0,
+          "err_1s": 19.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_105",
+          "age": 848.4,
+          "err_1s": 18.75,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_19",
+          "age": 896.3,
+          "err_1s": 19.28,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_28",
+          "age": 877.8,
+          "err_1s": 18.85,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_23",
+          "age": 780.1,
+          "err_1s": 17.03,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_60",
+          "age": 799.3,
+          "err_1s": 17.4,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_47",
+          "age": 816.0,
+          "err_1s": 17.65,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_69",
+          "age": 779.7,
+          "err_1s": 17.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_30",
+          "age": 2389.9,
+          "err_1s": 37.12,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_65",
+          "age": 2492.3,
+          "err_1s": 39.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_94",
+          "age": 1755.2,
+          "err_1s": 45.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_15",
+          "age": 2392.3,
+          "err_1s": 37.37,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_99",
+          "age": 1745.5,
+          "err_1s": 48.64,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_3",
+          "age": 2522.3,
+          "err_1s": 35.84,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_90",
+          "age": 1756.5,
+          "err_1s": 44.79,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_29",
+          "age": 1736.4,
+          "err_1s": 40.55,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_38",
+          "age": 1961.3,
+          "err_1s": 39.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_106",
+          "age": 1758.6,
+          "err_1s": 47.49,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_66",
+          "age": 1707.8,
+          "err_1s": 42.4,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_7",
+          "age": 2457.7,
+          "err_1s": 35.67,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_50",
+          "age": 1731.9,
+          "err_1s": 41.51,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_108",
+          "age": 2719.8,
+          "err_1s": 42.18,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_14",
+          "age": 2506.5,
+          "err_1s": 36.18,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_83",
+          "age": 1747.6,
+          "err_1s": 44.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_11",
+          "age": 2494.2,
+          "err_1s": 35.87,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_100",
+          "age": 1774.5,
+          "err_1s": 45.87,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_1",
+          "age": 1886.9,
+          "err_1s": 38.31,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_102",
+          "age": 1752.5,
+          "err_1s": 50.53,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_56",
+          "age": 1759.1,
+          "err_1s": 41.52,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_85",
+          "age": 2474.3,
+          "err_1s": 41.16,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_27",
+          "age": 1760.4,
+          "err_1s": 40.09,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_41",
+          "age": 1759.2,
+          "err_1s": 40.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_79",
+          "age": 1759.7,
+          "err_1s": 45.72,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_81",
+          "age": 1776.1,
+          "err_1s": 43.88,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_12",
+          "age": 1739.4,
+          "err_1s": 43.65,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_52",
+          "age": 1764.9,
+          "err_1s": 44.31,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_26",
+          "age": 2510.3,
+          "err_1s": 37.13,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_20",
+          "age": 1760.5,
+          "err_1s": 40.32,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_35",
+          "age": 1758.6,
+          "err_1s": 42.12,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_18",
+          "age": 1763.6,
+          "err_1s": 40.9,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_68",
+          "age": 2051.6,
+          "err_1s": 44.99,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_64",
+          "age": 2496.5,
+          "err_1s": 38.62,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_109",
+          "age": 1801.4,
+          "err_1s": 49.46,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_51",
+          "age": 1790.8,
+          "err_1s": 43.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_72",
+          "age": 1781.2,
+          "err_1s": 45.24,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_43",
+          "age": 1784.8,
+          "err_1s": 42.91,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_58",
+          "age": 1815.5,
+          "err_1s": 42.16,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_54",
+          "age": 2549.3,
+          "err_1s": 38.53,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-05_2",
+          "age": 2485.9,
+          "err_1s": 35.82,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-05_25",
+          "age": 2416.8,
+          "err_1s": 36.61,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-05_96",
+          "age": 2350.6,
+          "err_1s": 42.28,
+          "accepted": false
+        }
+      ],
+      "published_result": "максимальный возраст осадконакопления 716 ± 10 млн лет (n=3, concordia age)",
+      "comparison": {
+        "id": "KOCHNEV-41812",
+        "label": "Кочнев · 1812-2",
+        "source": "Kochnev et al., 2022",
+        "doi": "https://doi.org/10.1016/j.precamres.2022.106877",
+        "analyses": [
+          {
+            "sid": "41812-001",
+            "age": 798.6954820708289,
+            "err_1s": 15.311373040533056,
+            "err_2s": 30.62274608106611,
+            "discordance": -2.359350969015739,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-002",
+            "age": 785.0124539946551,
+            "err_1s": 10.256082445814798,
+            "err_2s": 20.512164891629595,
+            "discordance": 0.5708759473696201,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-003",
+            "age": 1729.1679080198144,
+            "err_1s": 26.779495503337444,
+            "err_2s": 53.55899100667489,
+            "discordance": -0.662883553097926,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-004",
+            "age": 771.3003208115769,
+            "err_1s": 17.53939007600468,
+            "err_2s": 35.07878015200936,
+            "discordance": 1.52623599895918,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-005",
+            "age": 885.2486115275996,
+            "err_1s": 15.78206793668528,
+            "err_2s": 31.56413587337056,
+            "discordance": -1.991160866889452,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-006",
+            "age": 822.5711174454259,
+            "err_1s": 12.332922041899906,
+            "err_2s": 24.66584408379981,
+            "discordance": -5.19343118963258,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-007",
+            "age": 1989.2487327371039,
+            "err_1s": 20.579880055158128,
+            "err_2s": 41.159760110316256,
+            "discordance": 1.1806090910843503,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-008",
+            "age": 810.0758613740983,
+            "err_1s": 11.623793728504666,
+            "err_2s": 23.24758745700933,
+            "discordance": -0.9649460601358961,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-009",
+            "age": 941.754751793038,
+            "err_1s": 11.34697504783611,
+            "err_2s": 22.69395009567222,
+            "discordance": -1.2098942035397853,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-010",
+            "age": 827.1088486892756,
+            "err_1s": 11.917866456294064,
+            "err_2s": 23.835732912588128,
+            "discordance": 3.4181238388614643,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-011",
+            "age": 937.8544189652275,
+            "err_1s": 12.257366005192182,
+            "err_2s": 24.514732010384364,
+            "discordance": -2.683057015989454,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-012",
+            "age": 1974.6335408366222,
+            "err_1s": 20.121595721055883,
+            "err_2s": 40.243191442111765,
+            "discordance": -1.3461872937538866,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-013",
+            "age": 950.6609467088368,
+            "err_1s": 13.748337226020226,
+            "err_2s": 27.496674452040452,
+            "discordance": 0.6135788225633876,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-014",
+            "age": 1834.5387128163486,
+            "err_1s": 25.916900333124886,
+            "err_2s": 51.83380066624977,
+            "discordance": 3.693992551084224,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-015",
+            "age": 947.8790823485252,
+            "err_1s": 11.742922506332832,
+            "err_2s": 23.485845012665663,
+            "discordance": -2.157401859460628,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-016",
+            "age": 885.2486115275996,
+            "err_1s": 11.39507072158483,
+            "err_2s": 22.79014144316966,
+            "discordance": -1.991160866889452,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-017",
+            "age": 798.1259353829901,
+            "err_1s": 10.136371820501893,
+            "err_2s": 20.272743641003785,
+            "discordance": -9.279342419754233,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-018",
+            "age": 778.7313466282304,
+            "err_1s": 8.631053029509019,
+            "err_2s": 17.262106059018038,
+            "discordance": -1.1020347399921415,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-019",
+            "age": 951.2171755527136,
+            "err_1s": 10.146136880873257,
+            "err_2s": 20.292273761746515,
+            "discordance": 6.499464792431575,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-020",
+            "age": 879.0644610508722,
+            "err_1s": 9.637260483919931,
+            "err_2s": 19.274520967839862,
+            "discordance": -0.955235503921692,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-021",
+            "age": 796.4169933373407,
+            "err_1s": 12.905364037885136,
+            "err_2s": 25.81072807577027,
+            "discordance": 4.292903410666082,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-022*",
+            "age": 822.0036763833019,
+            "err_1s": 9.241134960827424,
+            "err_2s": 18.482269921654847,
+            "discordance": 6.0681193215958995,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-024",
+            "age": 894.2331623646913,
+            "err_1s": 10.203182119605287,
+            "err_2s": 20.406364239210575,
+            "discordance": -2.635312370413323,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-025",
+            "age": 824.2731410017462,
+            "err_1s": 8.441956691971825,
+            "err_2s": 16.88391338394365,
+            "discordance": 2.652390303523955,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-026",
+            "age": 3087.0574108761784,
+            "err_1s": 14.08671223736701,
+            "err_2s": 28.17342447473402,
+            "discordance": 1.1633183064302166,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-027",
+            "age": 804.9571767662806,
+            "err_1s": 8.675850687145896,
+            "err_2s": 17.351701374291792,
+            "discordance": 3.1864091136130535,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-028",
+            "age": 830.5100521706262,
+            "err_1s": 10.142549332085423,
+            "err_2s": 20.285098664170846,
+            "discordance": 6.2949270272805835,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-029",
+            "age": 890.8654230549523,
+            "err_1s": 9.18883938675134,
+            "err_2s": 18.37767877350268,
+            "discordance": -1.2456698191599114,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-030",
+            "age": 1877.506287761928,
+            "err_1s": 27.375389706324654,
+            "err_2s": 54.75077941264931,
+            "discordance": -0.4094932419053787,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-031*",
+            "age": 651.3404813812464,
+            "err_1s": 6.633007886961082,
+            "err_2s": 13.266015773922163,
+            "discordance": 5.6148031497475825,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-032",
+            "age": 811.2127950952319,
+            "err_1s": 8.228161302891976,
+            "err_2s": 16.456322605783953,
+            "discordance": -3.8659822440848313,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-033",
+            "age": 927.2558902541379,
+            "err_1s": 10.26744639213723,
+            "err_2s": 20.53489278427446,
+            "discordance": 8.350822880605048,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-034",
+            "age": 819.1657216017798,
+            "err_1s": 10.07382440959617,
+            "err_2s": 20.14764881919234,
+            "discordance": 4.420928618334163,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-035",
+            "age": 2044.9012461362884,
+            "err_1s": 13.086918841094644,
+            "err_2s": 26.173837682189287,
+            "discordance": -0.36613220944775593,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-036*",
+            "age": 853.7037046284581,
+            "err_1s": 8.907260922779813,
+            "err_2s": 17.814521845559625,
+            "discordance": 0.3043430877401887,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-037",
+            "age": 804.9571767662806,
+            "err_1s": 8.2910062467692,
+            "err_2s": 16.5820124935384,
+            "discordance": -2.7187772753710093,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-038",
+            "age": 1009.9069138654439,
+            "err_1s": 11.756452954139206,
+            "err_2s": 23.512905908278412,
+            "discordance": 2.4941058920963988,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-039",
+            "age": 1775.2432150366878,
+            "err_1s": 16.876144939451365,
+            "err_2s": 33.75228987890273,
+            "discordance": 3.508678592856551,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-040",
+            "age": 2399.97097789397,
+            "err_1s": 12.02282853743327,
+            "err_2s": 24.04565707486654,
+            "discordance": 4.250915608552197,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-041",
+            "age": 886.3723654190725,
+            "err_1s": 9.68843270974071,
+            "err_2s": 19.37686541948142,
+            "discordance": 1.6276561702855963,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-042",
+            "age": 874.5631679067429,
+            "err_1s": 9.461043162443843,
+            "err_2s": 18.922086324887687,
+            "discordance": -2.193405255448866,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-043",
+            "age": 899.8421544370891,
+            "err_1s": 9.929809184075282,
+            "err_2s": 19.859618368150564,
+            "discordance": 4.365030187127572,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-044",
+            "age": 868.9321279067339,
+            "err_1s": 12.537467492594942,
+            "err_2s": 25.074934985189884,
+            "discordance": -9.8810875074536,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-045",
+            "age": 1902.3927788321935,
+            "err_1s": 18.97818556518746,
+            "err_2s": 37.95637113037492,
+            "discordance": 1.506995459283722,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-046",
+            "age": 1897.7583186784634,
+            "err_1s": 14.839895467370184,
+            "err_2s": 29.679790934740367,
+            "discordance": 5.63273826618893,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-047",
+            "age": 809.5073193106606,
+            "err_1s": 12.955132902253638,
+            "err_2s": 25.910265804507276,
+            "discordance": 2.606410812288895,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-048",
+            "age": 800.4038202766967,
+            "err_1s": 8.642431990024761,
+            "err_2s": 17.284863980049522,
+            "discordance": -3.3750095582741113,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-049",
+            "age": 873.4373533418643,
+            "err_1s": 10.23418266624725,
+            "err_2s": 20.4683653324945,
+            "discordance": 2.1047167241750486,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-050",
+            "age": 781.587154136111,
+            "err_1s": 10.848686419539831,
+            "err_2s": 21.697372839079662,
+            "discordance": -1.8788755798014645,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-051",
+            "age": 792.997749525507,
+            "err_1s": 13.83486734353562,
+            "err_2s": 27.66973468707124,
+            "discordance": 5.135820193057827,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-053",
+            "age": 2288.1905681854855,
+            "err_1s": 14.00291252530792,
+            "err_2s": 28.00582505061584,
+            "discordance": 1.881383240921708,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-054",
+            "age": 2590.945270410915,
+            "err_1s": 13.809305331349378,
+            "err_2s": 27.618610662698757,
+            "discordance": 5.651536386940292,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-055",
+            "age": 883.562613301143,
+            "err_1s": 9.133410605263464,
+            "err_2s": 18.266821210526928,
+            "discordance": -1.4594651120883873,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-056",
+            "age": 794.7075981316439,
+            "err_1s": 8.211026391404914,
+            "err_2s": 16.42205278280983,
+            "discordance": -1.4641126108656644,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-057",
+            "age": 861.0403991710892,
+            "err_1s": 10.155554012670905,
+            "err_2s": 20.31110802534181,
+            "discordance": 1.1180574169034063,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-058",
+            "age": 869.0447969244345,
+            "err_1s": 8.48839382076659,
+            "err_2s": 16.97678764153318,
+            "discordance": 2.0673361479238483,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-059",
+            "age": 790.717245678566,
+            "err_1s": 8.06525698084323,
+            "err_2s": 16.13051396168646,
+            "discordance": 5.439041911961673,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-060",
+            "age": 782.7291229933244,
+            "err_1s": 8.00183187162213,
+            "err_2s": 16.00366374324426,
+            "discordance": 0.043828824620018025,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-061",
+            "age": 762.1426679429482,
+            "err_1s": 8.22018236001793,
+            "err_2s": 16.44036472003586,
+            "discordance": 0.6244809822916864,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-062*",
+            "age": 743.7882419988601,
+            "err_1s": 7.815196538846635,
+            "err_2s": 15.63039307769327,
+            "discordance": -4.138959495711337,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-063",
+            "age": 785.0124539946551,
+            "err_1s": 8.828759388705237,
+            "err_2s": 17.657518777410473,
+            "discordance": 0.9786448880931831,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-064",
+            "age": 786.7244216536639,
+            "err_1s": 8.403504367649361,
+            "err_2s": 16.807008735298723,
+            "discordance": -2.519601164765639,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-065",
+            "age": 792.997749525507,
+            "err_1s": 8.588149699931478,
+            "err_2s": 17.176299399862955,
+            "discordance": -0.4418484477713758,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-066",
+            "age": 791.287447278346,
+            "err_1s": 9.721220493529472,
+            "err_2s": 19.442440987058944,
+            "discordance": -0.22666175308965197,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-067",
+            "age": 939.5262791471795,
+            "err_1s": 9.346578701775513,
+            "err_2s": 18.693157403551027,
+            "discordance": 1.1918880917008101,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-068",
+            "age": 944.093819262168,
+            "err_1s": 9.075424581730829,
+            "err_2s": 18.150849163461658,
+            "discordance": -0.0647915348768402,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-069",
+            "age": 893.1107780696804,
+            "err_1s": 8.981693683292065,
+            "err_2s": 17.96338736658413,
+            "discordance": 1.8604653850904596,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-070",
+            "age": 798.6954820708289,
+            "err_1s": 8.773756871665796,
+            "err_2s": 17.547513743331592,
+            "discordance": -0.7512930721358724,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-071",
+            "age": 823.1385085633493,
+            "err_1s": 9.096064243943829,
+            "err_2s": 18.192128487887658,
+            "discordance": -2.9230819255020357,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-072",
+            "age": 1122.4584059862343,
+            "err_1s": 10.958574287793908,
+            "err_2s": 21.917148575587817,
+            "discordance": -3.226149143704493,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-073",
+            "age": 814.6223936490361,
+            "err_1s": 8.612645452557672,
+            "err_2s": 17.225290905115344,
+            "discordance": -0.35073289109149863,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-074",
+            "age": 2145.0315577204437,
+            "err_1s": 17.881405778882254,
+            "err_2s": 35.76281155776451,
+            "discordance": 1.289436181387149,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-075",
+            "age": 806.0950135324703,
+            "err_1s": 9.634108366885698,
+            "err_2s": 19.268216733771396,
+            "discordance": -2.4573639807147885,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-076",
+            "age": 2589.0208448503286,
+            "err_1s": 11.927493963174811,
+            "err_2s": 23.854987926349622,
+            "discordance": 0.7305716499674375,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-077",
+            "age": 1847.4001321300045,
+            "err_1s": 14.585076616674769,
+            "err_2s": 29.170153233349538,
+            "discordance": -0.1668420440242957,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-078",
+            "age": 2290.55997586014,
+            "err_1s": 13.187601112681705,
+            "err_2s": 26.37520222536341,
+            "discordance": 6.18915774236255,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-079",
+            "age": 917.7582033000613,
+            "err_1s": 9.909196837100069,
+            "err_2s": 19.818393674200138,
+            "discordance": 0.09208259972504074,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-080",
+            "age": 811.2127950952319,
+            "err_1s": 9.16698073606625,
+            "err_2s": 18.3339614721325,
+            "discordance": 2.39069337040414,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-081",
+            "age": 813.4860611620269,
+            "err_1s": 10.416574984451927,
+            "err_2s": 20.833149968903854,
+            "discordance": 3.2522529401752154,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-082",
+            "age": 2355.38153564981,
+            "err_1s": 17.95580507099612,
+            "err_2s": 35.91161014199224,
+            "discordance": -2.1183876660424206,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-083",
+            "age": 1900.8495709186966,
+            "err_1s": 22.249492851892683,
+            "err_2s": 44.498985703785365,
+            "discordance": 0.5977180114651537,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-085*",
+            "age": 831.6433880002176,
+            "err_1s": 8.616392302198847,
+            "err_2s": 17.232784604397693,
+            "discordance": -3.9924542000496888,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-086*",
+            "age": 761.5698824627979,
+            "err_1s": 8.35888984672664,
+            "err_2s": 16.71777969345328,
+            "discordance": 0.6574730871092394,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-087",
+            "age": 1950.9437523029324,
+            "err_1s": 23.586009367378438,
+            "err_2s": 47.172018734756875,
+            "discordance": 1.9284437806909915,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-088",
+            "age": 788.4359347878687,
+            "err_1s": 8.852632622179158,
+            "err_2s": 17.705265244358316,
+            "discordance": -7.318820115942481,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-089",
+            "age": 897.0943581184614,
+            "err_1s": 8.651196434549888,
+            "err_2s": 17.302392869099776,
+            "discordance": -2.8780313616258324,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-090",
+            "age": 902.644821400984,
+            "err_1s": 9.949101333337126,
+            "err_2s": 19.89820266667425,
+            "discordance": -2.869829924221168,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-091",
+            "age": 2450.666451268901,
+            "err_1s": 18.413851557343605,
+            "err_2s": 36.82770311468721,
+            "discordance": 0.5099260582441811,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-092",
+            "age": 795.8472452984255,
+            "err_1s": 8.341954580107995,
+            "err_2s": 16.68390916021599,
+            "discordance": 0.40588823022817966,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-093",
+            "age": 1811.7595931973824,
+            "err_1s": 28.4570172105374,
+            "err_2s": 56.9140344210748,
+            "discordance": 1.2585680158618828,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-094",
+            "age": 914.4027347509199,
+            "err_1s": 12.746241993158833,
+            "err_2s": 25.492483986317666,
+            "discordance": 0.4593779089116623,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-095",
+            "age": 905.4462703964921,
+            "err_1s": 10.438977255509826,
+            "err_2s": 20.877954511019652,
+            "discordance": 5.319542209845762,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-096",
+            "age": 903.2052086036762,
+            "err_1s": 9.168209375724246,
+            "err_2s": 18.33641875144849,
+            "discordance": -4.616011555522959,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-097",
+            "age": 1875.9369074567408,
+            "err_1s": 35.93876476701416,
+            "err_2s": 71.87752953402833,
+            "discordance": 8.567468864510875,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-098**",
+            "age": 695.3577493570162,
+            "err_1s": 7.44172938348953,
+            "err_2s": 14.88345876697906,
+            "discordance": 2.77935310602333,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-099",
+            "age": 781.1303099439302,
+            "err_1s": 7.737327777815494,
+            "err_2s": 15.474655555630989,
+            "discordance": -1.405764588438485,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-100",
+            "age": 797.5563383707255,
+            "err_1s": 8.62155066240041,
+            "err_2s": 17.24310132480082,
+            "discordance": 9.928340861539686,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-101",
+            "age": 849.7497155209454,
+            "err_1s": 9.284355409676436,
+            "err_2s": 18.568710819352873,
+            "discordance": 0.30071755725331606,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-102",
+            "age": 1875.9369074567408,
+            "err_1s": 19.23588147621399,
+            "err_2s": 38.47176295242798,
+            "discordance": 2.1505923691057083,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-103",
+            "age": 936.7396045773024,
+            "err_1s": 9.907769641589994,
+            "err_2s": 19.815539283179987,
+            "discordance": -0.3686831983701899,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-104",
+            "age": 794.7075981316439,
+            "err_1s": 8.463240258989345,
+            "err_2s": 16.92648051797869,
+            "discordance": 0.5498748818202781,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-105",
+            "age": 842.4001524036496,
+            "err_1s": 8.4764267316761,
+            "err_2s": 16.9528534633522,
+            "discordance": 9.745113158472885,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-106",
+            "age": 842.9658009963093,
+            "err_1s": 8.703451259548899,
+            "err_2s": 17.406902519097798,
+            "discordance": 5.439189640149622,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-107",
+            "age": 770.7283484779324,
+            "err_1s": 9.059148120671352,
+            "err_2s": 18.118296241342705,
+            "discordance": -7.358799829950746,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-108",
+            "age": 1839.374817044144,
+            "err_1s": 17.009634621126224,
+            "err_2s": 34.01926924225245,
+            "discordance": 2.2996771878872613,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-109",
+            "age": 894.2331623646913,
+            "err_1s": 9.33694280038111,
+            "err_2s": 18.67388560076222,
+            "discordance": 4.040037296235788,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-110*",
+            "age": 786.7244216536639,
+            "err_1s": 7.926856243505142,
+            "err_2s": 15.853712487010284,
+            "discordance": 8.882970343158615,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-111",
+            "age": 856.5829417360867,
+            "err_1s": 8.455213156946115,
+            "err_2s": 16.91042631389223,
+            "discordance": -2.6685394427335196,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-112",
+            "age": 931.7205526659039,
+            "err_1s": 9.388903606970928,
+            "err_2s": 18.777807213941855,
+            "discordance": -0.1459704868030376,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-113",
+            "age": 864.7619892958771,
+            "err_1s": 8.54889990411192,
+            "err_2s": 17.09779980822384,
+            "discordance": -4.673058539357056,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-114",
+            "age": 778.1600332780881,
+            "err_1s": 7.965572413298048,
+            "err_2s": 15.931144826596096,
+            "discordance": -3.546319329182146,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-116",
+            "age": 713.8503890067083,
+            "err_1s": 7.583922555929973,
+            "err_2s": 15.167845111859947,
+            "discordance": -0.4487947196178177,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-117*",
+            "age": 698.8291625707433,
+            "err_1s": 9.579434572113598,
+            "err_2s": 19.158869144227197,
+            "discordance": 1.9801063384077056,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-122",
+            "age": 738.6166298625951,
+            "err_1s": 8.508044966311104,
+            "err_2s": 17.016089932622208,
+            "discordance": 4.707920668052212,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-124",
+            "age": 724.2292334023429,
+            "err_1s": 9.924091574895044,
+            "err_2s": 19.84818314979009,
+            "discordance": 6.788027763567639,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-125",
+            "age": 720.1950015175372,
+            "err_1s": 9.295081495936131,
+            "err_2s": 18.590162991872262,
+            "discordance": 6.485341101538844,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-126*",
+            "age": 1332.8107629324404,
+            "err_1s": 31.467920955775412,
+            "err_2s": 62.935841911550824,
+            "discordance": -2.270981193106547,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-128",
+            "age": 741.4902599115673,
+            "err_1s": 8.694816282060515,
+            "err_2s": 17.38963256412103,
+            "discordance": -3.705816423547925,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-129",
+            "age": 712.1189558483222,
+            "err_1s": 9.859826196968811,
+            "err_2s": 19.719652393937622,
+            "discordance": 5.859451102285607,
+            "accepted": true,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-130*",
+            "age": 1688.7639285544162,
+            "err_1s": 16.913485626271495,
+            "err_2s": 33.82697125254299,
+            "discordance": -4.756598908166576,
+            "accepted": true,
+            "flagged_by_author": true
+          },
+          {
+            "sid": "41812-023",
+            "age": 991.6927942940677,
+            "err_1s": 6.0742313679562585,
+            "err_2s": 12.148462735912517,
+            "discordance": 110.37985149657361,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-052",
+            "age": 752.9719873784643,
+            "err_1s": 15.449451105248158,
+            "err_2s": 30.898902210496317,
+            "discordance": 11.9619934531195,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-084",
+            "age": 852.0094348262194,
+            "err_1s": 6.207158431205414,
+            "err_2s": 12.414316862410828,
+            "discordance": 17.919983773907443,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-118",
+            "age": 700.5641684168002,
+            "err_1s": 4.04526268022596,
+            "err_2s": 8.09052536045192,
+            "discordance": 14.061999117584968,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-119",
+            "age": 695.3577493570162,
+            "err_1s": 3.4704790335920848,
+            "err_2s": 6.9409580671841695,
+            "discordance": 20.346220968370865,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-121",
+            "age": 713.2732962904989,
+            "err_1s": 3.172590118039693,
+            "err_2s": 6.345180236079386,
+            "discordance": 12.920840076877148,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-123",
+            "age": 698.0771816614712,
+            "err_1s": 2.22638118581267,
+            "err_2s": 4.45276237162534,
+            "discordance": 92.53489088753281,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-127",
+            "age": 1713.487587244978,
+            "err_1s": 13.881603984156072,
+            "err_2s": 27.763207968312145,
+            "discordance": 21.475100925260413,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-115",
+            "age": 767.8677253193368,
+            "err_1s": 7.43069883699377,
+            "err_2s": 14.86139767398754,
+            "discordance": 12.991060698554268,
+            "accepted": false,
+            "flagged_by_author": false
+          },
+          {
+            "sid": "41812-120",
+            "age": 773.7020505822749,
+            "err_1s": 2.571776320159188,
+            "err_2s": 5.143552640318376,
+            "discordance": 14.878370665451502,
+            "accepted": false,
+            "flagged_by_author": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "SM25-07",
+      "label": "SM25-07",
+      "subtitle": "миндалекаменные трахибазальты",
+      "object": "Спилитовый объект · точка SM25-07",
+      "source": "Малышев, Пасенко",
+      "source_kind": "project",
+      "kde_enabled": false,
+      "analyses": [
+        {
+          "sid": "SM25-07_36",
+          "age": 548.7,
+          "err_1s": 11.75,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_30",
+          "age": 549.5,
+          "err_1s": 11.74,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_16",
+          "age": 573.9,
+          "err_1s": 12.21,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_23",
+          "age": 591.2,
+          "err_1s": 12.58,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_7",
+          "age": 598.0,
+          "err_1s": 12.7,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_45",
+          "age": 613.0,
+          "err_1s": 13.1,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_17",
+          "age": 752.4,
+          "err_1s": 15.8,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_28",
+          "age": 651.4,
+          "err_1s": 13.8,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_32",
+          "age": 652.6,
+          "err_1s": 13.85,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_33",
+          "age": 674.5,
+          "err_1s": 14.29,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_8",
+          "age": 689.2,
+          "err_1s": 14.54,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_10",
+          "age": 744.8,
+          "err_1s": 15.64,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_43",
+          "age": 777.0,
+          "err_1s": 16.4,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_21",
+          "age": 797.1,
+          "err_1s": 16.7,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_4",
+          "age": 805.0,
+          "err_1s": 16.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_12",
+          "age": 809.5,
+          "err_1s": 17.05,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_38",
+          "age": 810.4,
+          "err_1s": 17.14,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_2",
+          "age": 811.5,
+          "err_1s": 17.04,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_48",
+          "age": 812.2,
+          "err_1s": 17.2,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_14",
+          "age": 825.9,
+          "err_1s": 17.24,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_31",
+          "age": 812.9,
+          "err_1s": 17.08,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_40",
+          "age": 813.9,
+          "err_1s": 17.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_39",
+          "age": 813.6,
+          "err_1s": 17.26,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_11",
+          "age": 817.6,
+          "err_1s": 17.2,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_3",
+          "age": 818.5,
+          "err_1s": 17.21,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_49",
+          "age": 822.1,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_5",
+          "age": 821.3,
+          "err_1s": 17.17,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_50",
+          "age": 819.9,
+          "err_1s": 17.34,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_18",
+          "age": 819.3,
+          "err_1s": 17.2,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_1",
+          "age": 819.1,
+          "err_1s": 17.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_20",
+          "age": 820.5,
+          "err_1s": 17.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_13",
+          "age": 825.8,
+          "err_1s": 17.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_46",
+          "age": 820.5,
+          "err_1s": 17.42,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_24",
+          "age": 821.2,
+          "err_1s": 17.31,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_42",
+          "age": 821.7,
+          "err_1s": 17.29,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_15",
+          "age": 821.7,
+          "err_1s": 17.24,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_41",
+          "age": 830.1,
+          "err_1s": 17.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_26",
+          "age": 825.1,
+          "err_1s": 17.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_44",
+          "age": 826.3,
+          "err_1s": 17.38,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_37",
+          "age": 827.7,
+          "err_1s": 17.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_34",
+          "age": 825.3,
+          "err_1s": 17.34,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_29",
+          "age": 828.4,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_47",
+          "age": 831.6,
+          "err_1s": 17.51,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_27",
+          "age": 827.1,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_35",
+          "age": 827.9,
+          "err_1s": 17.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_19",
+          "age": 862.9,
+          "err_1s": 17.97,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_22",
+          "age": 847.4,
+          "err_1s": 17.69,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_9",
+          "age": 841.0,
+          "err_1s": 17.55,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_6",
+          "age": 3597.4,
+          "err_1s": 33.73,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_25",
+          "age": 2166.7,
+          "err_1s": 40.42,
+          "accepted": false
+        }
+      ]
+    },
+    {
+      "id": "SM25-16",
+      "label": "SM25-16",
+      "subtitle": "обломочный циркон",
+      "object": "Туфопесчаники · точка SM25-16",
+      "source": "Малышев, Пасенко",
+      "source_kind": "project",
+      "kde_enabled": true,
+      "analyses": [
+        {
+          "sid": "SM25-16_45",
+          "age": 319.7,
+          "err_1s": 6.93,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_61",
+          "age": 533.8,
+          "err_1s": 11.15,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_56",
+          "age": 253.2,
+          "err_1s": 5.44,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_24",
+          "age": 753.5,
+          "err_1s": 15.5,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_97",
+          "age": 796.3,
+          "err_1s": 16.13,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_93",
+          "age": 855.7,
+          "err_1s": 17.26,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_72",
+          "age": 503.7,
+          "err_1s": 10.53,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_14",
+          "age": 478.1,
+          "err_1s": 10.09,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_29",
+          "age": 481.2,
+          "err_1s": 10.11,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_84",
+          "age": 473.0,
+          "err_1s": 9.85,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_109",
+          "age": 230.7,
+          "err_1s": 4.93,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_44",
+          "age": 1380.8,
+          "err_1s": 41.87,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_60",
+          "age": 1377.0,
+          "err_1s": 41.98,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_10",
+          "age": 1384.4,
+          "err_1s": 40.39,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_16",
+          "age": 1358.3,
+          "err_1s": 42.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_55",
+          "age": 1388.2,
+          "err_1s": 41.8,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_87",
+          "age": 1377.4,
+          "err_1s": 43.99,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_62",
+          "age": 1367.4,
+          "err_1s": 43.07,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_91",
+          "age": 1361.2,
+          "err_1s": 45.5,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_68",
+          "age": 1367.2,
+          "err_1s": 42.18,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_43",
+          "age": 1384.5,
+          "err_1s": 41.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_28",
+          "age": 1398.6,
+          "err_1s": 40.72,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_30",
+          "age": 1365.4,
+          "err_1s": 42.16,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_12",
+          "age": 1391.4,
+          "err_1s": 42.44,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_2",
+          "age": 1388.2,
+          "err_1s": 41.12,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_37",
+          "age": 1381.8,
+          "err_1s": 40.67,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_46",
+          "age": 1359.0,
+          "err_1s": 43.79,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_71",
+          "age": 1363.4,
+          "err_1s": 44.98,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_34",
+          "age": 1375.1,
+          "err_1s": 42.38,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_103",
+          "age": 1456.9,
+          "err_1s": 45.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_48",
+          "age": 1383.6,
+          "err_1s": 41.34,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_7",
+          "age": 1378.1,
+          "err_1s": 40.61,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_26",
+          "age": 1381.7,
+          "err_1s": 40.89,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_33",
+          "age": 1388.4,
+          "err_1s": 41.0,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_36",
+          "age": 1394.9,
+          "err_1s": 43.02,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_5",
+          "age": 1340.4,
+          "err_1s": 49.54,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_65",
+          "age": 1376.2,
+          "err_1s": 42.84,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_22",
+          "age": 1388.2,
+          "err_1s": 40.63,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_81",
+          "age": 1377.2,
+          "err_1s": 44.99,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_94",
+          "age": 1386.4,
+          "err_1s": 44.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_9",
+          "age": 1394.5,
+          "err_1s": 42.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_25",
+          "age": 1396.6,
+          "err_1s": 40.54,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_50",
+          "age": 1382.1,
+          "err_1s": 41.59,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_70",
+          "age": 1383.0,
+          "err_1s": 42.77,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_79",
+          "age": 1377.8,
+          "err_1s": 43.07,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_85",
+          "age": 1382.9,
+          "err_1s": 43.93,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_17",
+          "age": 1382.6,
+          "err_1s": 42.11,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_77",
+          "age": 1394.6,
+          "err_1s": 42.85,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_49",
+          "age": 1387.7,
+          "err_1s": 42.41,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_90",
+          "age": 1388.0,
+          "err_1s": 44.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_100",
+          "age": 1408.7,
+          "err_1s": 44.85,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_78",
+          "age": 1372.0,
+          "err_1s": 43.06,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_3",
+          "age": 1380.6,
+          "err_1s": 41.37,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_67",
+          "age": 1404.6,
+          "err_1s": 43.96,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_69",
+          "age": 1400.2,
+          "err_1s": 42.46,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_15",
+          "age": 1392.1,
+          "err_1s": 42.44,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_39",
+          "age": 1385.4,
+          "err_1s": 41.82,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_53",
+          "age": 1391.4,
+          "err_1s": 41.93,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_47",
+          "age": 1389.0,
+          "err_1s": 42.88,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_4",
+          "age": 1407.1,
+          "err_1s": 42.4,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_98",
+          "age": 1404.6,
+          "err_1s": 44.9,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_52",
+          "age": 1390.2,
+          "err_1s": 42.32,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_8",
+          "age": 1392.3,
+          "err_1s": 40.44,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_54",
+          "age": 1870.7,
+          "err_1s": 39.71,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_58",
+          "age": 1393.2,
+          "err_1s": 42.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_82",
+          "age": 1394.6,
+          "err_1s": 44.94,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_102",
+          "age": 1399.4,
+          "err_1s": 45.02,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_76",
+          "age": 1413.8,
+          "err_1s": 43.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_19",
+          "age": 1412.5,
+          "err_1s": 42.05,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_20",
+          "age": 1398.9,
+          "err_1s": 40.86,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_32",
+          "age": 1439.7,
+          "err_1s": 41.84,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_6",
+          "age": 1355.2,
+          "err_1s": 42.54,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_101",
+          "age": 1398.9,
+          "err_1s": 46.23,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_95",
+          "age": 1481.4,
+          "err_1s": 44.83,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_21",
+          "age": 1401.6,
+          "err_1s": 40.51,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_89",
+          "age": 1392.4,
+          "err_1s": 43.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_57",
+          "age": 1394.0,
+          "err_1s": 44.26,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_35",
+          "age": 1361.1,
+          "err_1s": 57.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_27",
+          "age": 1417.4,
+          "err_1s": 41.97,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_96",
+          "age": 1388.8,
+          "err_1s": 44.46,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_106",
+          "age": 1394.1,
+          "err_1s": 45.66,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_38",
+          "age": 1422.7,
+          "err_1s": 43.16,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_59",
+          "age": 1481.2,
+          "err_1s": 43.25,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_41",
+          "age": 1425.4,
+          "err_1s": 42.07,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_99",
+          "age": 1424.7,
+          "err_1s": 44.58,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_66",
+          "age": 1400.7,
+          "err_1s": 44.13,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_108",
+          "age": 1417.5,
+          "err_1s": 46.21,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_11",
+          "age": 1443.0,
+          "err_1s": 42.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_107",
+          "age": 1402.7,
+          "err_1s": 47.69,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_13",
+          "age": 1400.4,
+          "err_1s": 42.32,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_31",
+          "age": 1512.2,
+          "err_1s": 42.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_86",
+          "age": 1405.3,
+          "err_1s": 44.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_18",
+          "age": 1447.2,
+          "err_1s": 40.43,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_74",
+          "age": 1849.1,
+          "err_1s": 39.95,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_1",
+          "age": 1499.2,
+          "err_1s": 42.0,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_42",
+          "age": 1437.0,
+          "err_1s": 41.25,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_23",
+          "age": 1434.1,
+          "err_1s": 42.11,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_51",
+          "age": 1394.8,
+          "err_1s": 42.55,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_73",
+          "age": 1429.5,
+          "err_1s": 44.72,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_83",
+          "age": 1466.5,
+          "err_1s": 45.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_104",
+          "age": 1398.4,
+          "err_1s": 50.65,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_80",
+          "age": 1480.8,
+          "err_1s": 44.87,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_110",
+          "age": 1505.6,
+          "err_1s": 47.42,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-16_64",
+          "age": 2279.2,
+          "err_1s": 38.75,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_63",
+          "age": 3018.4,
+          "err_1s": 34.86,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_40",
+          "age": 1755.2,
+          "err_1s": 39.52,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_105",
+          "age": 1609.5,
+          "err_1s": 48.03,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_92",
+          "age": 1661.5,
+          "err_1s": 47.84,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_75",
+          "age": 1942.8,
+          "err_1s": 39.77,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-16_88",
+          "age": 2973.3,
+          "err_1s": 37.68,
+          "accepted": false
+        }
+      ]
+    },
+    {
+      "id": "KOCHNEV-1812-1-SILL",
+      "label": "1812-1",
+      "subtitle": "долеритовый силл в поле губинской свиты",
+      "object": "Тело долеритов · обнажение 1812",
+      "source": "Kochnev et al., 2025",
+      "source_kind": "literature",
+      "kde_enabled": false,
+      "doi": "https://doi.org/10.5800/GT-2025-16-1-0808",
+      "published_result": "concordia age 834,5 ± 4,2 млн лет (n=13); авторы интерпретируют цирконы как ксеногенные",
+      "interpretation": "Пересчёт: 834.5 ± 4.1 млн лет (2σ). Кластер не является прямым возрастом внедрения силла.",
+      "figure": "upb/kochnev2025_1812_1_summary.png",
+      "audit": "upb/kochnev2025_1812_1_audit.csv",
+      "report": "upb/kochnev2025_1812_1_analysis.md",
+      "upb_analyses": [
+        {
+          "sid": "a_06_Linked selection",
+          "ratio_75": 1.28533512470233,
+          "err_ratio_75": 0.01841732554750905,
+          "ratio_68": 0.13633697601601,
+          "err_ratio_68": 0.001603309243451695,
+          "rho_3": 0.368414919375265,
+          "age_76": 871.738178065406,
+          "err_age_76": 19.40998526632425,
+          "age_68": 823.831574265462,
+          "err_age_68": 9.0999827342964,
+          "age_75": 838.986253245278,
+          "err_age_75": 8.15025913405715,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_05.FIN2",
+          "ratio_75": 1.26848745439461,
+          "err_ratio_75": 0.0187427825954559,
+          "ratio_68": 0.136727941692004,
+          "err_ratio_68": 0.001775213616693375,
+          "rho_3": 0.667343827063969,
+          "age_76": 838.580575196807,
+          "err_age_76": 18.93069183055685,
+          "age_68": 825.979670162587,
+          "err_age_68": 10.06252771135395,
+          "age_75": 831.373165397502,
+          "err_age_75": 8.3800304421463,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_02.FIN2",
+          "ratio_75": 1.26014498692804,
+          "err_ratio_75": 0.0174435701348591,
+          "ratio_68": 0.137002950889028,
+          "err_ratio_68": 0.001454365491052935,
+          "rho_3": 0.659405834090735,
+          "age_76": 812.30655823781,
+          "err_age_76": 15.78451085669795,
+          "age_68": 827.538900628309,
+          "err_age_68": 8.2443961650602,
+          "age_75": 828.1839251442,
+          "err_age_75": 7.66073083091875,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_03.FIN2",
+          "ratio_75": 1.26672660246932,
+          "err_ratio_75": 0.01749241587426645,
+          "ratio_68": 0.137154849365391,
+          "err_ratio_68": 0.00146140329639937,
+          "rho_3": 0.644973145483642,
+          "age_76": 825.652512978248,
+          "err_age_76": 16.2647934520746,
+          "age_68": 828.393300900259,
+          "err_age_68": 8.2849439425516,
+          "age_75": 830.531994221609,
+          "err_age_75": 7.77921590171835,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_04.FIN2",
+          "ratio_75": 1.27537635466346,
+          "err_ratio_75": 0.01824779448092005,
+          "ratio_68": 0.137475265036012,
+          "err_ratio_68": 0.00153967519288312,
+          "rho_3": 0.627413491557091,
+          "age_76": 842.738016040093,
+          "err_age_76": 17.62980448762935,
+          "age_68": 830.219700813305,
+          "err_age_68": 8.72726204014045,
+          "age_75": 835.442525696277,
+          "err_age_75": 8.16194246895435,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_09.FIN2",
+          "ratio_75": 1.2763320325696,
+          "err_ratio_75": 0.01733737542382885,
+          "ratio_68": 0.137480639494401,
+          "err_ratio_68": 0.00147114689631462,
+          "rho_3": 0.684097243574347,
+          "age_76": 836.476826858769,
+          "err_age_76": 15.91761252997655,
+          "age_68": 830.231038217274,
+          "err_age_68": 8.33883913908255,
+          "age_75": 835.368193736957,
+          "err_age_75": 7.55485826081065,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_01.FIN2",
+          "ratio_75": 1.26814201555146,
+          "err_ratio_75": 0.01745145607740205,
+          "ratio_68": 0.137984861472789,
+          "err_ratio_68": 0.001476110443496275,
+          "rho_3": 0.709145061668054,
+          "age_76": 824.342188603077,
+          "err_age_76": 15.83403428907595,
+          "age_68": 833.06612572995,
+          "err_age_68": 8.357935529276,
+          "age_75": 831.139983215952,
+          "err_age_75": 7.84819330071145,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_13.FIN2",
+          "ratio_75": 1.28209071124342,
+          "err_ratio_75": 0.0176772337199262,
+          "ratio_68": 0.137912648111877,
+          "err_ratio_68": 0.00148886712590864,
+          "rho_3": 0.677193223958832,
+          "age_76": 838.452650822983,
+          "err_age_76": 15.960360210628,
+          "age_68": 833.12530833542,
+          "err_age_68": 8.51440809026435,
+          "age_75": 838.061574033393,
+          "err_age_75": 7.8067439547278,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_11.FIN2 with links",
+          "ratio_75": 1.29057276617628,
+          "err_ratio_75": 0.0178825915132204,
+          "ratio_68": 0.138309400820546,
+          "err_ratio_68": 0.00148558586791385,
+          "rho_3": 0.73061865114773,
+          "age_76": 846.173499486451,
+          "err_age_76": 16.3291243209249,
+          "age_68": 834.938287850781,
+          "err_age_68": 8.41379384152565,
+          "age_75": 841.233779385533,
+          "err_age_75": 7.85147138918765,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_10.FIN2",
+          "ratio_75": 1.28376276707944,
+          "err_ratio_75": 0.0175709806301913,
+          "ratio_68": 0.138638347432144,
+          "err_ratio_68": 0.00148146833822311,
+          "rho_3": 0.747058359618635,
+          "age_76": 840.832444171402,
+          "err_age_76": 15.48400931951745,
+          "age_68": 837.193489340443,
+          "err_age_68": 8.46133135442035,
+          "age_75": 838.213951607027,
+          "err_age_75": 7.86795708356685,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_15.FIN2",
+          "ratio_75": 1.28673945955622,
+          "err_ratio_75": 0.0178590816359762,
+          "ratio_68": 0.138696725113011,
+          "err_ratio_68": 0.001486500801862325,
+          "rho_3": 0.567078978858962,
+          "age_76": 837.825362745439,
+          "err_age_76": 16.35189849708905,
+          "age_68": 837.524035522406,
+          "err_age_68": 8.3463683470699,
+          "age_75": 840.142780258104,
+          "err_age_75": 7.84968721772795,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_12.FIN2",
+          "ratio_75": 1.2842641099302,
+          "err_ratio_75": 0.0175765252456852,
+          "ratio_68": 0.138827079232384,
+          "err_ratio_68": 0.00146194082409546,
+          "rho_3": 0.40768155261062,
+          "age_76": 838.132566337292,
+          "err_age_76": 15.72184834711405,
+          "age_68": 838.246957841017,
+          "err_age_68": 8.34441670098595,
+          "age_75": 838.473331202328,
+          "err_age_75": 7.72447509352875,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_14.FIN2",
+          "ratio_75": 1.2833435270002,
+          "err_ratio_75": 0.0178763317958256,
+          "ratio_68": 0.139170204975327,
+          "err_ratio_68": 0.001503671138455355,
+          "rho_3": 0.748617939277872,
+          "age_76": 826.800079225308,
+          "err_age_76": 15.88979950860765,
+          "age_68": 840.259388882562,
+          "err_age_68": 8.42902029756725,
+          "age_75": 837.899335496207,
+          "err_age_75": 8.01275833788315,
+          "context_excluded": false
+        },
+        {
+          "sid": "a_07.FIN2",
+          "ratio_75": 1.42903867733245,
+          "err_ratio_75": 0.0220973159563437,
+          "ratio_68": 0.149862952749905,
+          "err_ratio_68": 0.001695200545946375,
+          "rho_3": 0.641150312544755,
+          "age_76": 906.615568727367,
+          "err_age_76": 18.7650360224076,
+          "age_68": 899.838340423401,
+          "err_age_68": 9.49494950676,
+          "age_75": 900.587409816445,
+          "err_age_75": 8.871853221549,
+          "context_excluded": true
+        },
+        {
+          "sid": "a_08.FIN2",
+          "ratio_75": 5.45208889947251,
+          "err_ratio_75": 0.0740158621658165,
+          "ratio_68": 0.341397941692351,
+          "err_ratio_68": 0.003603346466416265,
+          "rho_3": 0.664368760693911,
+          "age_76": 1877.82088569974,
+          "err_age_76": 13.5422239818017,
+          "age_68": 1892.76589237551,
+          "err_age_68": 17.32827509647795,
+          "age_75": 1892.40632214606,
+          "err_age_75": 11.56375452911105,
+          "context_excluded": true
+        }
+      ],
+      "analyses": [
+        {
+          "sid": "a_06_Linked selection",
+          "age": 823.831574265462,
+          "err_1s": 9.0999827342964,
+          "accepted": true
+        },
+        {
+          "sid": "a_05.FIN2",
+          "age": 825.979670162587,
+          "err_1s": 10.06252771135395,
+          "accepted": true
+        },
+        {
+          "sid": "a_02.FIN2",
+          "age": 827.538900628309,
+          "err_1s": 8.2443961650602,
+          "accepted": true
+        },
+        {
+          "sid": "a_03.FIN2",
+          "age": 828.393300900259,
+          "err_1s": 8.2849439425516,
+          "accepted": true
+        },
+        {
+          "sid": "a_04.FIN2",
+          "age": 830.219700813305,
+          "err_1s": 8.72726204014045,
+          "accepted": true
+        },
+        {
+          "sid": "a_09.FIN2",
+          "age": 830.231038217274,
+          "err_1s": 8.33883913908255,
+          "accepted": true
+        },
+        {
+          "sid": "a_01.FIN2",
+          "age": 833.06612572995,
+          "err_1s": 8.357935529276,
+          "accepted": true
+        },
+        {
+          "sid": "a_13.FIN2",
+          "age": 833.12530833542,
+          "err_1s": 8.51440809026435,
+          "accepted": true
+        },
+        {
+          "sid": "a_11.FIN2 with links",
+          "age": 834.938287850781,
+          "err_1s": 8.41379384152565,
+          "accepted": true
+        },
+        {
+          "sid": "a_10.FIN2",
+          "age": 837.193489340443,
+          "err_1s": 8.46133135442035,
+          "accepted": true
+        },
+        {
+          "sid": "a_15.FIN2",
+          "age": 837.524035522406,
+          "err_1s": 8.3463683470699,
+          "accepted": true
+        },
+        {
+          "sid": "a_12.FIN2",
+          "age": 838.246957841017,
+          "err_1s": 8.34441670098595,
+          "accepted": true
+        },
+        {
+          "sid": "a_14.FIN2",
+          "age": 840.259388882562,
+          "err_1s": 8.42902029756725,
+          "accepted": true
+        },
+        {
+          "sid": "a_07.FIN2",
+          "age": 899.838340423401,
+          "err_1s": 9.49494950676,
+          "accepted": true
+        },
+        {
+          "sid": "a_08.FIN2",
+          "age": 1877.82088569974,
+          "err_1s": 13.5422239818017,
+          "accepted": true
+        }
+      ]
+    },
+    {
+      "id": "KOCHNEV-2007-15-LUDY",
+      "label": "2007-15",
+      "subtitle": "песчаники лудовской свиты",
+      "object": "Лудовская свита · типовой разрез на левом берегу Енисея",
+      "source": "Kochnev et al., 2025",
+      "source_kind": "literature",
+      "kde_enabled": true,
+      "doi": "https://doi.org/10.5800/GT-2025-16-1-0808",
+      "published_result": "121 определение; самое молодое 1551 ± 27 млн лет; основные пики около 2,76, 2,57, 2,05, 1,93 и 1,87 млрд лет",
+      "interpretation": "Все 121 определения проходят гибридный порог |D| ≤ 10%; для выборки использован возраст ²⁰⁷Pb/²⁰⁶Pb, поскольку все анализы старше 1 млрд лет.",
+      "audit": "upb/kochnev2025_2007_15_audit.csv",
+      "analyses": [
+        {
+          "sid": "a_01",
+          "age": 2757.14285610742,
+          "err_1s": 6.26568241517675,
+          "err_2s": 12.5313648303535,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.5946602356604824,
+          "d2": 1.0446162727344,
+          "discordance": 1.0446162727344,
+          "accepted": true
+        },
+        {
+          "sid": "a_02",
+          "age": 1905.45453561064,
+          "err_1s": 6.14259716604735,
+          "err_2s": 12.2851943320947,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.7827844738571232,
+          "d2": -2.4196750022244307,
+          "discordance": -2.4196750022244307,
+          "accepted": true
+        },
+        {
+          "sid": "a_03",
+          "age": 3016.23871975444,
+          "err_1s": 6.5658557946381,
+          "err_2s": 13.1317115892762,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.14472010020987192,
+          "d2": 0.40061984232331316,
+          "discordance": 0.40061984232331316,
+          "accepted": true
+        },
+        {
+          "sid": "a_04",
+          "age": 3000.49110130658,
+          "err_1s": 6.0321673489044,
+          "err_2s": 12.0643346978088,
+          "age_system": "207Pb/206Pb",
+          "d1": 1.026180907685692,
+          "d2": 1.4203139713725443,
+          "discordance": 1.4203139713725443,
+          "accepted": true
+        },
+        {
+          "sid": "a_05",
+          "age": 1837.39297545015,
+          "err_1s": 5.9660258692016,
+          "err_2s": 11.9320517384032,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.45494394522420656,
+          "d2": -1.4993401704794795,
+          "discordance": -1.4993401704794795,
+          "accepted": true
+        },
+        {
+          "sid": "a_06",
+          "age": 1910.61514319001,
+          "err_1s": 6.9267591402415,
+          "err_2s": 13.853518280483,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.816125095241027,
+          "d2": 1.0156855183462765,
+          "discordance": 1.0156855183462765,
+          "accepted": true
+        },
+        {
+          "sid": "a_07",
+          "age": 2766.93970521349,
+          "err_1s": 7.73135846021035,
+          "err_2s": 15.4627169204207,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.8365397652841278,
+          "d2": 1.1654129731289986,
+          "discordance": 1.1654129731289986,
+          "accepted": true
+        },
+        {
+          "sid": "a_08",
+          "age": 2572.25402687961,
+          "err_1s": 7.1763420753338,
+          "err_2s": 14.3526841506676,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.32596686106167727,
+          "d2": 0.24303586019434054,
+          "discordance": 0.24303586019434054,
+          "accepted": true
+        },
+        {
+          "sid": "a_09",
+          "age": 1916.34856199534,
+          "err_1s": 8.0918788404559,
+          "err_2s": 16.1837576809118,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.595023784840798,
+          "d2": 1.2641856403830198,
+          "discordance": 1.2641856403830198,
+          "accepted": true
+        },
+        {
+          "sid": "a_10",
+          "age": 2770.00090192708,
+          "err_1s": 7.1903820484147,
+          "err_2s": 14.3807640968294,
+          "age_system": "207Pb/206Pb",
+          "d1": 1.2729407886927335,
+          "d2": 2.008240230877023,
+          "discordance": 2.008240230877023,
+          "accepted": true
+        },
+        {
+          "sid": "a_11",
+          "age": 2564.60445974918,
+          "err_1s": 8.7013135781179,
+          "err_2s": 17.4026271562358,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.06824419942128568,
+          "d2": -0.1354153077149145,
+          "discordance": -0.1354153077149145,
+          "accepted": true
+        },
+        {
+          "sid": "a_12",
+          "age": 2567.63698044385,
+          "err_1s": 4.95231607435903,
+          "err_2s": 9.90463214871806,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.35919572827761703,
+          "d2": -0.3677796469822803,
+          "discordance": -0.3677796469822803,
+          "accepted": true
+        },
+        {
+          "sid": "a_13",
+          "age": 2596.15752176512,
+          "err_1s": 6.00977521298005,
+          "err_2s": 12.0195504259601,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.5692289006449025,
+          "d2": 1.3288561221565187,
+          "discordance": 1.3288561221565187,
+          "accepted": true
+        },
+        {
+          "sid": "a_14",
+          "age": 2711.79513932001,
+          "err_1s": 5.47868799645605,
+          "err_2s": 10.9573759929121,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.3563901331307573,
+          "d2": -0.47849475596719593,
+          "discordance": -0.47849475596719593,
+          "accepted": true
+        },
+        {
+          "sid": "a_15",
+          "age": 1853.89812371956,
+          "err_1s": 8.43437847386565,
+          "err_2s": 16.8687569477313,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.6102899716660892,
+          "d2": -0.718284596774077,
+          "discordance": -0.718284596774077,
+          "accepted": true
+        },
+        {
+          "sid": "a_16",
+          "age": 1856.48197944223,
+          "err_1s": 7.0479560795911,
+          "err_2s": 14.0959121591822,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.2632819217911475,
+          "d2": -0.12101297798763344,
+          "discordance": -0.12101297798763344,
+          "accepted": true
+        },
+        {
+          "sid": "a_17",
+          "age": 2553.76194216591,
+          "err_1s": 4.908463551356165,
+          "err_2s": 9.81692710271233,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.354631345036438,
+          "d2": -0.3348252187084011,
+          "discordance": -0.3348252187084011,
+          "accepted": true
+        },
+        {
+          "sid": "a_18",
+          "age": 1857.35938092922,
+          "err_1s": 10.7477625611333,
+          "err_2s": 21.4955251222666,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.3305937042354046,
+          "d2": 0.16246754075359693,
+          "discordance": 0.16246754075359693,
+          "accepted": true
+        },
+        {
+          "sid": "a_19",
+          "age": 1851.35171164943,
+          "err_1s": 7.73822398403975,
+          "err_2s": 15.4764479680795,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.0009936907650054394,
+          "d2": -0.07362920837669096,
+          "discordance": -0.07362920837669096,
+          "accepted": true
+        },
+        {
+          "sid": "a_20",
+          "age": 1906.72510982883,
+          "err_1s": 8.75393701705495,
+          "err_2s": 17.5078740341099,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.15505830496806983,
+          "d2": -1.0539804912749973,
+          "discordance": -1.0539804912749973,
+          "accepted": true
+        },
+        {
+          "sid": "a_21",
+          "age": 1921.25249078335,
+          "err_1s": 8.140012313895,
+          "err_2s": 16.28002462779,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.33154480965649213,
+          "d2": 0.7020331739323815,
+          "discordance": 0.7020331739323815,
+          "accepted": true
+        },
+        {
+          "sid": "a_22",
+          "age": 1927.19919908527,
+          "err_1s": 6.87313503864285,
+          "err_2s": 13.7462700772857,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.6905073069779721,
+          "d2": 0.7755702045650459,
+          "discordance": 0.7755702045650459,
+          "accepted": true
+        },
+        {
+          "sid": "a_23",
+          "age": 2629.35204275939,
+          "err_1s": 4.81475855055471,
+          "err_2s": 9.62951710110942,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.5830677722446609,
+          "d2": 0.9112402275938791,
+          "discordance": 0.9112402275938791,
+          "accepted": true
+        },
+        {
+          "sid": "a_24",
+          "age": 2721.9927352817,
+          "err_1s": 5.6542263644004,
+          "err_2s": 11.3084527288008,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.12121198951782208,
+          "d2": -0.019403766648640186,
+          "discordance": -0.019403766648640186,
+          "accepted": true
+        },
+        {
+          "sid": "a_25",
+          "age": 1926.32495243277,
+          "err_1s": 7.327460372999,
+          "err_2s": 14.654920745998,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.09142068880854115,
+          "d2": 0.17505895185114806,
+          "discordance": 0.17505895185114806,
+          "accepted": true
+        },
+        {
+          "sid": "a_26",
+          "age": 1933.94657464177,
+          "err_1s": 7.80024446502805,
+          "err_2s": 15.6004889300561,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.29793836370843874,
+          "d2": 0.36211997535835483,
+          "discordance": 0.36211997535835483,
+          "accepted": true
+        },
+        {
+          "sid": "a_27",
+          "age": 1997.6227083827,
+          "err_1s": 6.26917268892185,
+          "err_2s": 12.5383453778437,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.36066591676267024,
+          "d2": 0.38406618482329513,
+          "discordance": 0.38406618482329513,
+          "accepted": true
+        },
+        {
+          "sid": "a_28",
+          "age": 2754.86480526434,
+          "err_1s": 5.7377737196931,
+          "err_2s": 11.4755474393862,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.4779063315800469,
+          "d2": 0.6897792672239778,
+          "discordance": 0.6897792672239778,
+          "accepted": true
+        },
+        {
+          "sid": "a_29",
+          "age": 2860.34963890052,
+          "err_1s": 6.06765236793365,
+          "err_2s": 12.1353047358673,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.020209893306999405,
+          "d2": 0.012122702336170299,
+          "discordance": 0.012122702336170299,
+          "accepted": true
+        },
+        {
+          "sid": "a_30",
+          "age": 2054.05515130529,
+          "err_1s": 6.42278847838365,
+          "err_2s": 12.8455769567673,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.40315771404457745,
+          "d2": 1.5584118570547867,
+          "discordance": 1.5584118570547867,
+          "accepted": true
+        },
+        {
+          "sid": "a_31",
+          "age": 2601.94776234032,
+          "err_1s": 6.38575805323095,
+          "err_2s": 12.7715161064619,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.3704625362719094,
+          "d2": 0.8556848540937523,
+          "discordance": 0.8556848540937523,
+          "accepted": true
+        },
+        {
+          "sid": "a_32",
+          "age": 2588.15040199835,
+          "err_1s": 4.76598900241615,
+          "err_2s": 9.5319780048323,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.4368791618942325,
+          "d2": 0.6832601121060877,
+          "discordance": 0.6832601121060877,
+          "accepted": true
+        },
+        {
+          "sid": "a_33",
+          "age": 2596.61716687794,
+          "err_1s": 7.5692105956197,
+          "err_2s": 15.1384211912394,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.39101615228873676,
+          "d2": 0.8003007574972187,
+          "discordance": 0.8003007574972187,
+          "accepted": true
+        },
+        {
+          "sid": "a_34",
+          "age": 1985.60258451191,
+          "err_1s": 10.5021504960352,
+          "err_2s": 21.0043009920704,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.4796365907033806,
+          "d2": 1.2189087366338835,
+          "discordance": 1.2189087366338835,
+          "accepted": true
+        },
+        {
+          "sid": "a_35",
+          "age": 2898.4843516829,
+          "err_1s": 8.9996560516455,
+          "err_2s": 17.999312103291,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.5622325926609051,
+          "d2": 0.7640078810430051,
+          "discordance": 0.7640078810430051,
+          "accepted": true
+        },
+        {
+          "sid": "a_36",
+          "age": 2011.05811443832,
+          "err_1s": 7.3939582085811,
+          "err_2s": 14.7879164171622,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.6182570392049169,
+          "d2": -0.7780296175661228,
+          "discordance": -0.7780296175661228,
+          "accepted": true
+        },
+        {
+          "sid": "a_37",
+          "age": 2726.43457492501,
+          "err_1s": 9.06046656922425,
+          "err_2s": 18.1209331384485,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.48839466941279497,
+          "d2": -0.6860768097735281,
+          "discordance": -0.6860768097735281,
+          "accepted": true
+        },
+        {
+          "sid": "a_38",
+          "age": 1835.80471419781,
+          "err_1s": 9.5951347927539,
+          "err_2s": 19.1902695855078,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.25204790930543064,
+          "d2": -0.7266811347315327,
+          "discordance": -0.7266811347315327,
+          "accepted": true
+        },
+        {
+          "sid": "a_39",
+          "age": 2570.13617462678,
+          "err_1s": 7.9085892694945,
+          "err_2s": 15.817178538989,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.7749879634709411,
+          "d2": -1.34946150782691,
+          "discordance": -1.34946150782691,
+          "accepted": true
+        },
+        {
+          "sid": "a_40",
+          "age": 1897.90196953369,
+          "err_1s": 8.12597433660285,
+          "err_2s": 16.2519486732057,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.30335004550380296,
+          "d2": -0.7912218691813688,
+          "discordance": -0.7912218691813688,
+          "accepted": true
+        },
+        {
+          "sid": "a_41",
+          "age": 2012.19421703631,
+          "err_1s": 6.10427860823075,
+          "err_2s": 12.2085572164615,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.0014902596565113946,
+          "d2": -0.4012177884727741,
+          "discordance": -0.4012177884727741,
+          "accepted": true
+        },
+        {
+          "sid": "a_42",
+          "age": 1858.72237554969,
+          "err_1s": 6.6170371987488,
+          "err_2s": 13.2340743974976,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.6004713437844922,
+          "d2": -1.280499023799364,
+          "discordance": -1.280499023799364,
+          "accepted": true
+        },
+        {
+          "sid": "a_43",
+          "age": 2557.33101561937,
+          "err_1s": 10.8628496424044,
+          "err_2s": 21.7256992848088,
+          "age_system": "207Pb/206Pb",
+          "d1": -1.0481551582290805,
+          "d2": -2.1177179904318444,
+          "discordance": -2.1177179904318444,
+          "accepted": true
+        },
+        {
+          "sid": "a_44",
+          "age": 1906.25735101111,
+          "err_1s": 9.16670395146915,
+          "err_2s": 18.3334079029383,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.4389434636240419,
+          "d2": -1.055376959649934,
+          "discordance": -1.055376959649934,
+          "accepted": true
+        },
+        {
+          "sid": "a_45",
+          "age": 3048.20267127442,
+          "err_1s": 6.2522475912791,
+          "err_2s": 12.5044951825582,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.25607383430531483,
+          "d2": -0.4604545015094552,
+          "discordance": -0.4604545015094552,
+          "accepted": true
+        },
+        {
+          "sid": "a_46",
+          "age": 2957.41216278418,
+          "err_1s": 8.49306974552435,
+          "err_2s": 16.9861394910487,
+          "age_system": "207Pb/206Pb",
+          "d1": -1.1770780163414374,
+          "d2": -2.421949124337097,
+          "discordance": -2.421949124337097,
+          "accepted": true
+        },
+        {
+          "sid": "a_47",
+          "age": 1830.1504106096,
+          "err_1s": 6.7338092611642,
+          "err_2s": 13.4676185223284,
+          "age_system": "207Pb/206Pb",
+          "d1": 1.0891244198266925,
+          "d2": 2.5220272087395745,
+          "discordance": 2.5220272087395745,
+          "accepted": true
+        },
+        {
+          "sid": "a_48",
+          "age": 1867.91448183189,
+          "err_1s": 15.83159502388205,
+          "err_2s": 31.6631900477641,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.7081340128667457,
+          "d2": -0.3087329521179738,
+          "discordance": -0.3087329521179738,
+          "accepted": true
+        },
+        {
+          "sid": "a_49",
+          "age": 1965.33216915804,
+          "err_1s": 5.81320631630935,
+          "err_2s": 11.6264126326187,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.06875976990642352,
+          "d2": -0.006887042394443377,
+          "discordance": -0.006887042394443377,
+          "accepted": true
+        },
+        {
+          "sid": "a_50",
+          "age": 1865.59973874193,
+          "err_1s": 8.1652755231318,
+          "err_2s": 16.3305510462636,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.5448612222601068,
+          "d2": -0.973524027556949,
+          "discordance": -0.973524027556949,
+          "accepted": true
+        },
+        {
+          "sid": "a_51",
+          "age": 2570.45632207586,
+          "err_1s": 5.2213481403002,
+          "err_2s": 10.4426962806004,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.29566177433359986,
+          "d2": 0.45993236983568053,
+          "discordance": 0.45993236983568053,
+          "accepted": true
+        },
+        {
+          "sid": "a_52",
+          "age": 1903.71825462105,
+          "err_1s": 11.4714979659199,
+          "err_2s": 22.9429959318398,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.39902225423960047,
+          "d2": 0.977220192104622,
+          "discordance": 0.977220192104622,
+          "accepted": true
+        },
+        {
+          "sid": "a_53",
+          "age": 2736.16226001319,
+          "err_1s": 6.73075910144605,
+          "err_2s": 13.4615182028921,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.6748499509975803,
+          "d2": 1.1386963885875234,
+          "discordance": 1.1386963885875234,
+          "accepted": true
+        },
+        {
+          "sid": "a_54",
+          "age": 2661.54733298288,
+          "err_1s": 5.5133306668536,
+          "err_2s": 11.0266613337072,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.46253662523929595,
+          "d2": 1.0347830013921921,
+          "discordance": 1.0347830013921921,
+          "accepted": true
+        },
+        {
+          "sid": "a_55",
+          "age": 2590.45718945296,
+          "err_1s": 6.5193547977473,
+          "err_2s": 13.0387095954946,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.775627213865282,
+          "d2": 1.698860728793461,
+          "discordance": 1.698860728793461,
+          "accepted": true
+        },
+        {
+          "sid": "a_56",
+          "age": 2591.17985254096,
+          "err_1s": 4.95173682648884,
+          "err_2s": 9.90347365297768,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.29333721541837665,
+          "d2": 0.46556184508932397,
+          "discordance": 0.46556184508932397,
+          "accepted": true
+        },
+        {
+          "sid": "a_57",
+          "age": 1966.34437906593,
+          "err_1s": 8.4664421389572,
+          "err_2s": 16.9328842779144,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.32109367499338903,
+          "d2": -0.9163711184975387,
+          "discordance": -0.9163711184975387,
+          "accepted": true
+        },
+        {
+          "sid": "a_58",
+          "age": 1971.06095761502,
+          "err_1s": 5.9681688098176,
+          "err_2s": 11.9363376196352,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.19779649440456737,
+          "d2": 0.6708594520555833,
+          "discordance": 0.6708594520555833,
+          "accepted": true
+        },
+        {
+          "sid": "a_59",
+          "age": 1988.33662270133,
+          "err_1s": 7.22890569171165,
+          "err_2s": 14.4578113834233,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.5165610664827014,
+          "d2": -0.9906217460971312,
+          "discordance": -0.9906217460971312,
+          "accepted": true
+        },
+        {
+          "sid": "a_60",
+          "age": 1884.36584434307,
+          "err_1s": 8.52335095511175,
+          "err_2s": 17.0467019102235,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.04950567314411236,
+          "d2": 0.24591958498614286,
+          "discordance": 0.24591958498614286,
+          "accepted": true
+        },
+        {
+          "sid": "a_61",
+          "age": 1939.53820817343,
+          "err_1s": 11.7851104385165,
+          "err_2s": 23.570220877033,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.44020662209492967,
+          "d2": 0.6015939097798517,
+          "discordance": 0.6015939097798517,
+          "accepted": true
+        },
+        {
+          "sid": "a_62",
+          "age": 1977.94880265302,
+          "err_1s": 6.50926126231365,
+          "err_2s": 13.0185225246273,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.3517806858866601,
+          "d2": 0.6501074587821787,
+          "discordance": 0.6501074587821787,
+          "accepted": true
+        },
+        {
+          "sid": "a_63",
+          "age": 1889.49302398812,
+          "err_1s": 6.87336585921645,
+          "err_2s": 13.7467317184329,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.11111874245962605,
+          "d2": 0.40004416261343323,
+          "discordance": 0.40004416261343323,
+          "accepted": true
+        },
+        {
+          "sid": "a_64",
+          "age": 2871.15670195649,
+          "err_1s": 5.1020060987266,
+          "err_2s": 10.2040121974532,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.032304641852798355,
+          "d2": 0.1930346951974471,
+          "discordance": 0.1930346951974471,
+          "accepted": true
+        },
+        {
+          "sid": "a_65",
+          "age": 1992.61125689012,
+          "err_1s": 7.55133334925685,
+          "err_2s": 15.1026666985137,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.44099017901275683,
+          "d2": 1.4389272654885321,
+          "discordance": 1.4389272654885321,
+          "accepted": true
+        },
+        {
+          "sid": "a_66",
+          "age": 2755.68921399645,
+          "err_1s": 12.7640049498149,
+          "err_2s": 25.5280098996298,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.09146803191051323,
+          "d2": -0.14696593969338867,
+          "discordance": -0.14696593969338867,
+          "accepted": true
+        },
+        {
+          "sid": "a_67",
+          "age": 1991.82883468007,
+          "err_1s": 13.3752834792368,
+          "err_2s": 26.7505669584736,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.01563311362877684,
+          "d2": -0.9703975814261301,
+          "discordance": -0.9703975814261301,
+          "accepted": true
+        },
+        {
+          "sid": "a_68",
+          "age": 2564.83468003659,
+          "err_1s": 16.39700563558945,
+          "err_2s": 32.7940112711789,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.9680692952811931,
+          "d2": 0.803292502438957,
+          "discordance": 0.803292502438957,
+          "accepted": true
+        },
+        {
+          "sid": "a_69",
+          "age": 2027.55114865595,
+          "err_1s": 12.7317084257527,
+          "err_2s": 25.4634168515054,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.8913265084771638,
+          "d2": -1.9233031043746185,
+          "discordance": -1.9233031043746185,
+          "accepted": true
+        },
+        {
+          "sid": "a_70",
+          "age": 2718.98978861113,
+          "err_1s": 12.6476958857077,
+          "err_2s": 25.2953917714154,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.2820912374518092,
+          "d2": -0.46096641862817256,
+          "discordance": -0.46096641862817256,
+          "accepted": true
+        },
+        {
+          "sid": "a_71",
+          "age": 1937.91961035451,
+          "err_1s": 13.82084645917125,
+          "err_2s": 27.6416929183425,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.58076282939028,
+          "d2": -1.2623614915324377,
+          "discordance": -1.2623614915324377,
+          "accepted": true
+        },
+        {
+          "sid": "a_72",
+          "age": 1895.78100934616,
+          "err_1s": 12.5066585234985,
+          "err_2s": 25.013317046997,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.17654892150905654,
+          "d2": -0.7090075177237476,
+          "discordance": -0.7090075177237476,
+          "accepted": true
+        },
+        {
+          "sid": "a_73",
+          "age": 1978.97918474945,
+          "err_1s": 12.3874768363017,
+          "err_2s": 24.7749536726034,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.381695479930122,
+          "d2": -0.8249476293002656,
+          "discordance": -0.8249476293002656,
+          "accepted": true
+        },
+        {
+          "sid": "a_74",
+          "age": 1976.52633660989,
+          "err_1s": 16.35375140422665,
+          "err_2s": 32.7075028084533,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.7353431092239293,
+          "d2": -0.9513295858184279,
+          "discordance": -0.9513295858184279,
+          "accepted": true
+        },
+        {
+          "sid": "a_75",
+          "age": 2428.50719073406,
+          "err_1s": 13.33416106920205,
+          "err_2s": 26.6683221384041,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.893112441202426,
+          "d2": 1.8343025453698258,
+          "discordance": 1.8343025453698258,
+          "accepted": true
+        },
+        {
+          "sid": "a_76",
+          "age": 1904.62472897136,
+          "err_1s": 16.93496880053945,
+          "err_2s": 33.8699376010789,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.05976981777047197,
+          "d2": -0.8257328444446155,
+          "discordance": -0.8257328444446155,
+          "accepted": true
+        },
+        {
+          "sid": "a_77",
+          "age": 2134.67913098409,
+          "err_1s": 15.4788730370777,
+          "err_2s": 30.9577460741554,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.08027625121255211,
+          "d2": -0.29187275793692846,
+          "discordance": -0.29187275793692846,
+          "accepted": true
+        },
+        {
+          "sid": "a_78",
+          "age": 1871.55974683631,
+          "err_1s": 14.2706823110057,
+          "err_2s": 28.5413646220114,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.26942657680574245,
+          "d2": -0.6345114050840706,
+          "discordance": -0.6345114050840706,
+          "accepted": true
+        },
+        {
+          "sid": "a_80",
+          "age": 3245.82520481896,
+          "err_1s": 11.5400425975458,
+          "err_2s": 23.0800851950916,
+          "age_system": "207Pb/206Pb",
+          "d1": -1.1418736159177434,
+          "d2": -1.8518176528886876,
+          "discordance": -1.8518176528886876,
+          "accepted": true
+        },
+        {
+          "sid": "a_81",
+          "age": 2290.0279005395,
+          "err_1s": 12.93433574890015,
+          "err_2s": 25.8686714978003,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.6397545851605901,
+          "d2": 0.740372187759708,
+          "discordance": 0.740372187759708,
+          "accepted": true
+        },
+        {
+          "sid": "a_82",
+          "age": 1988.56306581419,
+          "err_1s": 13.24672973434915,
+          "err_2s": 26.4934594686983,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.14573698021098647,
+          "d2": -0.21503276578456187,
+          "discordance": -0.21503276578456187,
+          "accepted": true
+        },
+        {
+          "sid": "a_83",
+          "age": 1948.83243716991,
+          "err_1s": 12.13241850939435,
+          "err_2s": 24.2648370187887,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.22595512678998952,
+          "d2": -0.7026014056383145,
+          "discordance": -0.7026014056383145,
+          "accepted": true
+        },
+        {
+          "sid": "a_84",
+          "age": 1993.37146792975,
+          "err_1s": 12.34473378017215,
+          "err_2s": 24.6894675603443,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.21368810575967956,
+          "d2": 0.18405535053329647,
+          "discordance": 0.18405535053329647,
+          "accepted": true
+        },
+        {
+          "sid": "a_85",
+          "age": 2783.8292323435,
+          "err_1s": 11.2493574474949,
+          "err_2s": 22.4987148949898,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.47109028861668234,
+          "d2": -0.9429885481798461,
+          "discordance": -0.9429885481798461,
+          "accepted": true
+        },
+        {
+          "sid": "a_86",
+          "age": 2894.18101467085,
+          "err_1s": 11.245480713151,
+          "err_2s": 22.490961426302,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.21873916603427634,
+          "d2": -0.351900130814764,
+          "discordance": -0.351900130814764,
+          "accepted": true
+        },
+        {
+          "sid": "a_87",
+          "age": 2731.15061770266,
+          "err_1s": 13.2252210093023,
+          "err_2s": 26.4504420186046,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.33348619126233325,
+          "d2": -0.028632533755557077,
+          "discordance": -0.028632533755557077,
+          "accepted": true
+        },
+        {
+          "sid": "a_88",
+          "age": 2617.11972277225,
+          "err_1s": 11.71433846028465,
+          "err_2s": 23.4286769205693,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.18474122564979822,
+          "d2": 0.16183807441856324,
+          "discordance": 0.16183807441856324,
+          "accepted": true
+        },
+        {
+          "sid": "a_89",
+          "age": 2713.1460186298,
+          "err_1s": 12.0943253177021,
+          "err_2s": 24.1886506354042,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.42430351212259243,
+          "d2": -0.7739916714297856,
+          "discordance": -0.7739916714297856,
+          "accepted": true
+        },
+        {
+          "sid": "a_90",
+          "age": 2697.94011876745,
+          "err_1s": 11.20794249546805,
+          "err_2s": 22.4158849909361,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.8075985436613697,
+          "d2": 1.265518805112853,
+          "discordance": 1.265518805112853,
+          "accepted": true
+        },
+        {
+          "sid": "a_91a",
+          "age": 1944.56972544015,
+          "err_1s": 16.89811925952305,
+          "err_2s": 33.7962385190461,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.7324324293650708,
+          "d2": 2.5496743909381614,
+          "discordance": 2.5496743909381614,
+          "accepted": true
+        },
+        {
+          "sid": "a_91b",
+          "age": 1988.73803241837,
+          "err_1s": 15.6844141198542,
+          "err_2s": 31.3688282397084,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.5873201382820881,
+          "d2": 1.1754954110893001,
+          "discordance": 1.1754954110893001,
+          "accepted": true
+        },
+        {
+          "sid": "a_93",
+          "age": 2000.78349529893,
+          "err_1s": 13.1537259006195,
+          "err_2s": 26.307451801239,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.20015447403428643,
+          "d2": -0.7166696372883918,
+          "discordance": -0.7166696372883918,
+          "accepted": true
+        },
+        {
+          "sid": "a_94",
+          "age": 1976.01741108455,
+          "err_1s": 14.56021089250285,
+          "err_2s": 29.1204217850057,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.9209221579931204,
+          "d2": -2.1454939719713795,
+          "discordance": -2.1454939719713795,
+          "accepted": true
+        },
+        {
+          "sid": "a_95",
+          "age": 2035.86137120789,
+          "err_1s": 12.0542503424256,
+          "err_2s": 24.1085006848512,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.8973975968700643,
+          "d2": 1.2331702780975506,
+          "discordance": 1.2331702780975506,
+          "accepted": true
+        },
+        {
+          "sid": "a_96",
+          "age": 2766.57357017713,
+          "err_1s": 12.9634866469887,
+          "err_2s": 25.9269732939774,
+          "age_system": "207Pb/206Pb",
+          "d1": 1.056922913191971,
+          "d2": 1.7598645106839728,
+          "discordance": 1.7598645106839728,
+          "accepted": true
+        },
+        {
+          "sid": "a_97",
+          "age": 2005.66683857211,
+          "err_1s": 11.90658312246295,
+          "err_2s": 23.8131662449259,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.7795301271798727,
+          "d2": -1.9146491984253888,
+          "discordance": -1.9146491984253888,
+          "accepted": true
+        },
+        {
+          "sid": "a_98",
+          "age": 1991.39492173482,
+          "err_1s": 14.3710051717777,
+          "err_2s": 28.7420103435554,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.6616707823979384,
+          "d2": 1.4120426430591415,
+          "discordance": 1.4120426430591415,
+          "accepted": true
+        },
+        {
+          "sid": "a_99",
+          "age": 1845.91286868329,
+          "err_1s": 14.01727818146365,
+          "err_2s": 28.0345563629273,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.8976860022964606,
+          "d2": -2.1261136754158416,
+          "discordance": -2.1261136754158416,
+          "accepted": true
+        },
+        {
+          "sid": "a_100",
+          "age": 2000.88379046262,
+          "err_1s": 13.5189466849346,
+          "err_2s": 27.0378933698692,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.7384219829123406,
+          "d2": -1.0171559918102702,
+          "discordance": -1.0171559918102702,
+          "accepted": true
+        },
+        {
+          "sid": "a_101",
+          "age": 1551.37729513277,
+          "err_1s": 13.4128342067127,
+          "err_2s": 26.8256684134254,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.04238162659258027,
+          "d2": -0.7746692047526205,
+          "discordance": -0.7746692047526205,
+          "accepted": true
+        },
+        {
+          "sid": "a_102",
+          "age": 2743.31442550584,
+          "err_1s": 11.3395642834475,
+          "err_2s": 22.679128566895,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.35878288419219917,
+          "d2": 0.13550075697006392,
+          "discordance": 0.13550075697006392,
+          "accepted": true
+        },
+        {
+          "sid": "a_103",
+          "age": 1982.57505888955,
+          "err_1s": 14.14664614604025,
+          "err_2s": 28.2932922920805,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.15487518873299466,
+          "d2": -1.4573676013054038,
+          "discordance": -1.4573676013054038,
+          "accepted": true
+        },
+        {
+          "sid": "a_104",
+          "age": 1907.27044703776,
+          "err_1s": 12.8627543261805,
+          "err_2s": 25.725508652361,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.962268501174901,
+          "d2": -2.4151877913181963,
+          "discordance": -2.4151877913181963,
+          "accepted": true
+        },
+        {
+          "sid": "a_106",
+          "age": 3012.02313527131,
+          "err_1s": 13.5922553285519,
+          "err_2s": 27.1845106571038,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.3520631734785229,
+          "d2": -0.532545910129445,
+          "discordance": -0.532545910129445,
+          "accepted": true
+        },
+        {
+          "sid": "a_107",
+          "age": 1847.70342022947,
+          "err_1s": 12.94986311966525,
+          "err_2s": 25.8997262393305,
+          "age_system": "207Pb/206Pb",
+          "d1": -1.6706663360467666,
+          "d2": -3.6990182719152664,
+          "discordance": -3.6990182719152664,
+          "accepted": true
+        },
+        {
+          "sid": "a_108",
+          "age": 1955.83746209365,
+          "err_1s": 12.303430926568,
+          "err_2s": 24.606861853136,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.42911657196560427,
+          "d2": 0.27852475044740643,
+          "discordance": 0.27852475044740643,
+          "accepted": true
+        },
+        {
+          "sid": "a_109",
+          "age": 1978.6562515913,
+          "err_1s": 12.2320314234463,
+          "err_2s": 24.4640628468926,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.6655969822803254,
+          "d2": 0.7923292538509763,
+          "discordance": 0.7923292538509763,
+          "accepted": true
+        },
+        {
+          "sid": "a_110",
+          "age": 1911.63898697608,
+          "err_1s": 12.2192105039375,
+          "err_2s": 24.438421007875,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.785893335947141,
+          "d2": -2.954079729781267,
+          "discordance": -2.954079729781267,
+          "accepted": true
+        },
+        {
+          "sid": "a_111",
+          "age": 1854.87223515409,
+          "err_1s": 12.5768234656849,
+          "err_2s": 25.1536469313698,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.3578909052200596,
+          "d2": -0.4115553886137824,
+          "discordance": -0.4115553886137824,
+          "accepted": true
+        },
+        {
+          "sid": "a_112",
+          "age": 1795.1150107271,
+          "err_1s": 12.4003929543194,
+          "err_2s": 24.8007859086388,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.47451651924208527,
+          "d2": 0.9671875477649916,
+          "discordance": 0.9671875477649916,
+          "accepted": true
+        },
+        {
+          "sid": "a_114",
+          "age": 1879.27810499457,
+          "err_1s": 12.52428653644635,
+          "err_2s": 25.0485730728927,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.05675728196782304,
+          "d2": -0.3381245136454436,
+          "discordance": -0.3381245136454436,
+          "accepted": true
+        },
+        {
+          "sid": "a_115",
+          "age": 2170.37305153764,
+          "err_1s": 12.53120486542995,
+          "err_2s": 25.0624097308599,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.31400268228686246,
+          "d2": -0.23106099529631718,
+          "discordance": -0.23106099529631718,
+          "accepted": true
+        },
+        {
+          "sid": "a_116",
+          "age": 2711.51725260666,
+          "err_1s": 10.7297597304062,
+          "err_2s": 21.4595194608124,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.04348769734048297,
+          "d2": 0.19787311453525191,
+          "discordance": 0.19787311453525191,
+          "accepted": true
+        },
+        {
+          "sid": "a_117",
+          "age": 1994.39877997237,
+          "err_1s": 13.30810515339675,
+          "err_2s": 26.6162103067935,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.7541773566138499,
+          "d2": 1.0083593375862732,
+          "discordance": 1.0083593375862732,
+          "accepted": true
+        },
+        {
+          "sid": "a_119",
+          "age": 2739.44430250096,
+          "err_1s": 12.5680536663988,
+          "err_2s": 25.1361073327976,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.5695470601299268,
+          "d2": 1.3408497794104912,
+          "discordance": 1.3408497794104912,
+          "accepted": true
+        },
+        {
+          "sid": "a_120",
+          "age": 1871.97510969741,
+          "err_1s": 12.8379215194978,
+          "err_2s": 25.6758430389956,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.12482752648670381,
+          "d2": 0.6221625606274594,
+          "discordance": 0.6221625606274594,
+          "accepted": true
+        },
+        {
+          "sid": "a_121",
+          "age": 2749.25140237094,
+          "err_1s": 14.18077654255395,
+          "err_2s": 28.3615530851079,
+          "age_system": "207Pb/206Pb",
+          "d1": 1.0714700384151898,
+          "d2": 1.0913681762390715,
+          "discordance": 1.0913681762390715,
+          "accepted": true
+        },
+        {
+          "sid": "a_123",
+          "age": 2047.03284187959,
+          "err_1s": 13.19421841455485,
+          "err_2s": 26.3884368291097,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.14584574758169655,
+          "d2": 0.6636517816878573,
+          "discordance": 0.6636517816878573,
+          "accepted": true
+        },
+        {
+          "sid": "a_127",
+          "age": 1806.11895747555,
+          "err_1s": 13.41793686356045,
+          "err_2s": 26.8358737271209,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.09285349605268056,
+          "d2": 0.6163360192459555,
+          "discordance": 0.6163360192459555,
+          "accepted": true
+        },
+        {
+          "sid": "a_128",
+          "age": 2778.66011363494,
+          "err_1s": 15.4646105369491,
+          "err_2s": 30.9292210738982,
+          "age_system": "207Pb/206Pb",
+          "d1": 0.11398463674798798,
+          "d2": 1.2472830401913493,
+          "discordance": 1.2472830401913493,
+          "accepted": true
+        },
+        {
+          "sid": "a_129",
+          "age": 2041.85352907502,
+          "err_1s": 12.82269479882045,
+          "err_2s": 25.6453895976409,
+          "age_system": "207Pb/206Pb",
+          "d1": -0.5651722332007614,
+          "d2": 0.6223604016297957,
+          "discordance": 0.6223604016297957,
+          "accepted": true
+        }
+      ]
+    },
+    {
+      "id": "1812-1-SM25-07-COMPARISON",
+      "label": "Два базитовых тела",
+      "subtitle": "1812-1 и SM25-07",
+      "object": "Силл в поле губинской свиты и диоритовая дайка на спилитовом объекте",
+      "source": "Малышев, Пасенко · SM25-07",
+      "source_kind": "comparison",
+      "kde_enabled": false,
+      "interpretation": "WM ²⁰⁶Pb/²³⁸U различаются на 11.8 ± 7.8 млн лет (2σ, внутренние ошибки). Кластер 1812-1 ксеногенный, поэтому его нельзя использовать как возраст внедрения силла.",
+      "figure": "upb/1812_1_SM25_07_comparison.png",
+      "report": "upb/1812_1_SM25_07_comparison.md",
+      "analyses": [
+        {
+          "sid": "SM25-07_36",
+          "age": 548.7,
+          "err_1s": 11.75,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_30",
+          "age": 549.5,
+          "err_1s": 11.74,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_16",
+          "age": 573.9,
+          "err_1s": 12.21,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_23",
+          "age": 591.2,
+          "err_1s": 12.58,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_7",
+          "age": 598.0,
+          "err_1s": 12.7,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_45",
+          "age": 613.0,
+          "err_1s": 13.1,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_17",
+          "age": 752.4,
+          "err_1s": 15.8,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_28",
+          "age": 651.4,
+          "err_1s": 13.8,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_32",
+          "age": 652.6,
+          "err_1s": 13.85,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_33",
+          "age": 674.5,
+          "err_1s": 14.29,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_8",
+          "age": 689.2,
+          "err_1s": 14.54,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_10",
+          "age": 744.8,
+          "err_1s": 15.64,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_43",
+          "age": 777.0,
+          "err_1s": 16.4,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_21",
+          "age": 797.1,
+          "err_1s": 16.7,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_4",
+          "age": 805.0,
+          "err_1s": 16.92,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_12",
+          "age": 809.5,
+          "err_1s": 17.05,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_38",
+          "age": 810.4,
+          "err_1s": 17.14,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_2",
+          "age": 811.5,
+          "err_1s": 17.04,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_48",
+          "age": 812.2,
+          "err_1s": 17.2,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_14",
+          "age": 825.9,
+          "err_1s": 17.24,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_31",
+          "age": 812.9,
+          "err_1s": 17.08,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_40",
+          "age": 813.9,
+          "err_1s": 17.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_39",
+          "age": 813.6,
+          "err_1s": 17.26,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_11",
+          "age": 817.6,
+          "err_1s": 17.2,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_3",
+          "age": 818.5,
+          "err_1s": 17.21,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_49",
+          "age": 822.1,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_5",
+          "age": 821.3,
+          "err_1s": 17.17,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_50",
+          "age": 819.9,
+          "err_1s": 17.34,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_18",
+          "age": 819.3,
+          "err_1s": 17.2,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_1",
+          "age": 819.1,
+          "err_1s": 17.19,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_20",
+          "age": 820.5,
+          "err_1s": 17.15,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_13",
+          "age": 825.8,
+          "err_1s": 17.3,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_46",
+          "age": 820.5,
+          "err_1s": 17.42,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_24",
+          "age": 821.2,
+          "err_1s": 17.31,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_42",
+          "age": 821.7,
+          "err_1s": 17.29,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_15",
+          "age": 821.7,
+          "err_1s": 17.24,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_41",
+          "age": 830.1,
+          "err_1s": 17.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_26",
+          "age": 825.1,
+          "err_1s": 17.27,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_44",
+          "age": 826.3,
+          "err_1s": 17.38,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_37",
+          "age": 827.7,
+          "err_1s": 17.35,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_34",
+          "age": 825.3,
+          "err_1s": 17.34,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_29",
+          "age": 828.4,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_47",
+          "age": 831.6,
+          "err_1s": 17.51,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_27",
+          "age": 827.1,
+          "err_1s": 17.33,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_35",
+          "age": 827.9,
+          "err_1s": 17.45,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_19",
+          "age": 862.9,
+          "err_1s": 17.97,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_22",
+          "age": 847.4,
+          "err_1s": 17.69,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_9",
+          "age": 841.0,
+          "err_1s": 17.55,
+          "accepted": true
+        },
+        {
+          "sid": "SM25-07_6",
+          "age": 1195.3,
+          "err_1s": 24.27,
+          "accepted": false
+        },
+        {
+          "sid": "SM25-07_25",
+          "age": 1440.3,
+          "err_1s": 28.78,
+          "accepted": false
+        }
+      ],
+      "comparison": {
+        "id": "KOCHNEV-1812-1-CLUSTER",
+        "label": "Kochnev et al., 2025 · 1812-1",
+        "source": "Kochnev et al., 2025",
+        "doi": "https://doi.org/10.5800/GT-2025-16-1-0808",
+        "analyses": [
+          {
+            "sid": "a_06_Linked selection",
+            "age": 823.831574265462,
+            "err_1s": 9.0999827342964,
+            "accepted": true
+          },
+          {
+            "sid": "a_05.FIN2",
+            "age": 825.979670162587,
+            "err_1s": 10.06252771135395,
+            "accepted": true
+          },
+          {
+            "sid": "a_02.FIN2",
+            "age": 827.538900628309,
+            "err_1s": 8.2443961650602,
+            "accepted": true
+          },
+          {
+            "sid": "a_03.FIN2",
+            "age": 828.393300900259,
+            "err_1s": 8.2849439425516,
+            "accepted": true
+          },
+          {
+            "sid": "a_04.FIN2",
+            "age": 830.219700813305,
+            "err_1s": 8.72726204014045,
+            "accepted": true
+          },
+          {
+            "sid": "a_09.FIN2",
+            "age": 830.231038217274,
+            "err_1s": 8.33883913908255,
+            "accepted": true
+          },
+          {
+            "sid": "a_01.FIN2",
+            "age": 833.06612572995,
+            "err_1s": 8.357935529276,
+            "accepted": true
+          },
+          {
+            "sid": "a_13.FIN2",
+            "age": 833.12530833542,
+            "err_1s": 8.51440809026435,
+            "accepted": true
+          },
+          {
+            "sid": "a_11.FIN2 with links",
+            "age": 834.938287850781,
+            "err_1s": 8.41379384152565,
+            "accepted": true
+          },
+          {
+            "sid": "a_10.FIN2",
+            "age": 837.193489340443,
+            "err_1s": 8.46133135442035,
+            "accepted": true
+          },
+          {
+            "sid": "a_15.FIN2",
+            "age": 837.524035522406,
+            "err_1s": 8.3463683470699,
+            "accepted": true
+          },
+          {
+            "sid": "a_12.FIN2",
+            "age": 838.246957841017,
+            "err_1s": 8.34441670098595,
+            "accepted": true
+          },
+          {
+            "sid": "a_14.FIN2",
+            "age": 840.259388882562,
+            "err_1s": 8.42902029756725,
+            "accepted": true
+          }
+        ]
+      }
+    }
+  ],
+  "literature_cards": {
+    "SM25-05": {
+      "title": "Губинская свита · Kochnev et al., 2022",
+      "sample": "1812-2",
+      "analytical_prefix": "41812",
+      "summary": "Опубликованный MDA: 716 ± 10 млн лет; три молодых зерна, concordia age.",
+      "detail": "В приложении 130 анализов; 120 проходят авторский порог |D| ≤ 10%.",
+      "dataset_id": "GUBINSKAYA-COMPARISON",
+      "doi": "https://doi.org/10.1016/j.precamres.2022.106877",
+      "audit": "upb/kochnev2022_41812_audit.csv"
+    }
+  }
+}

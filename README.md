@@ -25,7 +25,8 @@
 MPLCONFIGDIR=/private/tmp/igarka-mpl /Users/sergeymalyshev/opt/anaconda3/bin/python3 build_portal.py
 ```
 
-После завершённых и проверенных изменений синхронизация:
+После значительных и проверенных изменений синхронизация выполняется вручную
+по запросу пользователя. Автоматической фоновой синхронизации нет:
 
 ```bash
 python3 scripts/sync_github.py
